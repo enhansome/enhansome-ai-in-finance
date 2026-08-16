@@ -35,17 +35,17 @@ With the power of the latest artificial intelligence research, people analyze & 
 
 ## Agents
 
-* [TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ 98,326 | 🐛 364 | 🌐 Python | 📅 2026-07-18 - Multi-Agents LLM Financial Trading Framework.
+* [TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ 98,496 | 🐛 365 | 🌐 Python | 📅 2026-07-18 - Multi-Agents LLM Financial Trading Framework.
 
-* [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) ⭐ 30,926 | 🐛 19 | 🌐 Python | 📅 2026-08-15 - Multi-agent finance research workspace for strategy generation, backtests, portfolio analysis, and research insights.
+* [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) ⭐ 31,036 | 🐛 20 | 🌐 Python | 📅 2026-08-16 - Multi-agent finance research workspace for strategy generation, backtests, portfolio analysis, and research insights.
 
-* 🌟🌟 [nofx](https://github.com/NoFxAiOS/nofx) ⭐ 12,717 | 🐛 518 | 🌐 Go | 📅 2026-08-15 - A multi-exchange Al trading platform with multi-Ai competition self-evolution, and real-time dashboard.
+* 🌟🌟 [nofx](https://github.com/NoFxAiOS/nofx) ⭐ 12,695 | 🐛 518 | 🌐 Go | 📅 2026-08-16 - A multi-exchange Al trading platform with multi-Ai competition self-evolution, and real-time dashboard.
 
-* 🌟 [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) ⭐ 7,791 | 🐛 72 | 🌐 Jupyter Notebook | 📅 2026-07-27 - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
+* 🌟 [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) ⭐ 7,793 | 🐛 73 | 🌐 Jupyter Notebook | 📅 2026-07-27 - An Open-Source AI Agent Platform for Financial Analysis using LLMs.
 
-* 🌟 [ATLAS](https://github.com/chrisworsey55/atlas-gic) ⭐ 2,081 | 🐛 3 | 🌐 Python | 📅 2026-05-27 - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch, Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
+* 🌟 [ATLAS](https://github.com/chrisworsey55/atlas-gic) ⭐ 2,082 | 🐛 3 | 🌐 Python | 📅 2026-05-27 - Self-improving AI trading system with 25 agents, Karpathy-style autoresearch, Darwinian selection, autonomous agent spawning, and multi-cohort meta-weighting.
 
-* [oracle3](https://github.com/YichengYang-Ethan/oracle3) ⭐ 256 | 🐛 17 | 🌐 Python | 📅 2026-05-08 - Prediction-market trading agent for Kalshi, Polymarket, and Solana DFlow, with Wang Transform pricing and arbitrage strategies.
+* [oracle3](https://github.com/YichengYang-Ethan/oracle3) ⭐ 246 | 🐛 17 | 🌐 Python | 📅 2026-05-08 - Prediction-market trading agent for Kalshi, Polymarket, and Solana DFlow, with Wang Transform pricing and arbitrage strategies.
 
 * [stock-analysis](https://github.com/AdvancingTitans/stock-analysis) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2026-07-28 - Evidence-driven market recap CLI for AI agents, producing Markdown reports and JSON Evidence Packs for A/HK/US stocks, funds, and portfolios.
 
@@ -65,8 +65,8 @@ With the power of the latest artificial intelligence research, people analyze & 
 
 ## LLMs
 
-* 🌟 [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) ⭐ 62,873 | 🐛 164 | 🌐 Python | 📅 2026-08-07 - Explore the use of AI to make trading decisions.
-* [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 21,094 | 🐛 87 | 🌐 Jupyter Notebook | 📅 2026-08-02 - Provides a playground for all people interested in LLMs and NLP in Finance.
+* 🌟 [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) ⭐ 62,890 | 🐛 164 | 🌐 Python | 📅 2026-08-07 - Explore the use of AI to make trading decisions.
+* [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 21,100 | 🐛 87 | 🌐 Jupyter Notebook | 📅 2026-08-02 - Provides a playground for all people interested in LLMs and NLP in Finance.
 * [Hands-on LLMs: Train and Deploy a Real-time Financial Advisor](https://github.com/iusztinpaul/hands-on-llms) ⚠️ Archived - Train and deploy a real-time financial advisor chatbot with Falcon 7B and CometLLM.
 * 🌟🌟 [MarS](https://github.com/microsoft/MarS) ⭐ 1,775 | 🐛 15 | 🌐 Python | 📅 2026-06-11 - A Financial Market Simulation Engine Powered by Generative Foundation Model.
 * [PIXIU](https://github.com/chancefocus/PIXIU) ⭐ 882 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-03-04 - An open-source resource providing a financial large language model, a dataset with 136K instruction samples, and a comprehensive evaluation benchmark.
@@ -94,34 +94,34 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 
 ### Market Data
 
-* [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) ⭐ 3,972 | 🐛 9 | 🌐 Python | 📅 2026-08-07 - 30+ tools for real-time TradingView market data, technical analysis, screeners, and backtesting across stocks, crypto, forex, and futures.
-* [dgunning/edgartools](https://github.com/dgunning/edgartools) ⭐ 2,588 | 🐛 19 | 🌐 Python | 📅 2026-08-15 - 11 MCP tools for SEC EDGAR — every filing type (10-K, 10-Q, 8-K, S-1), no API key required; 1,800+ Smithery installs.
+* [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) ⭐ 3,984 | 🐛 9 | 🌐 Python | 📅 2026-08-07 - 30+ tools for real-time TradingView market data, technical analysis, screeners, and backtesting across stocks, crypto, forex, and futures.
+* [dgunning/edgartools](https://github.com/dgunning/edgartools) ⭐ 2,592 | 🐛 19 | 🌐 Python | 📅 2026-08-15 - 11 MCP tools for SEC EDGAR — every filing type (10-K, 10-Q, 8-K, S-1), no API key required; 1,800+ Smithery installs.
 * [financial-datasets/mcp-server](https://github.com/financial-datasets/mcp-server) ⭐ 2,279 | 🐛 14 | 🌐 Python | 📅 2025-06-05 - Structured access to income statements, balance sheets, cash flows, stock prices, and market news via the Financial Datasets API.
-* [TickDB/tickdb-unified-realtime-marketdata-api](https://github.com/TickDB/tickdb-unified-realtime-marketdata-api) ⭐ 679 | 🐛 3 | 🌐 Python | 📅 2026-06-20 - 13-tool unified real-time and historical market data across Forex, US/HK/CN stocks, and crypto.
-* [guangxiangdebizi/FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP) ⭐ 645 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-13 - Integrates Tushare (Chinese A-shares, funds, bonds, macro) and Binance (crypto) for LLM financial data access.
+* [TickDB/tickdb-unified-realtime-marketdata-api](https://github.com/TickDB/tickdb-unified-realtime-marketdata-api) ⭐ 685 | 🐛 3 | 🌐 Python | 📅 2026-06-20 - 13-tool unified real-time and historical market data across Forex, US/HK/CN stocks, and crypto.
+* [guangxiangdebizi/FinanceMCP](https://github.com/guangxiangdebizi/FinanceMCP) ⭐ 645 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-16 - Integrates Tushare (Chinese A-shares, funds, bonds, macro) and Binance (crypto) for LLM financial data access.
 * [massive-com/mcp\_massive](https://github.com/massive-com/mcp_massive) ⭐ 382 | 🐛 7 | 🌐 Python | 📅 2026-06-11 - Polygon.io professional-grade real-time and historical data for stocks, forex, crypto, and options.
 * [Alex2Yang97/yahoo-finance-mcp](https://github.com/Alex2Yang97/yahoo-finance-mcp) ⭐ 340 | 🐛 10 | 🌐 Python | 📅 2026-03-23 - Yahoo Finance MCP: stock quotes, financials, options chains, and market news.
 * [zwldarren/akshare-one-mcp](https://github.com/zwldarren/akshare-one-mcp) ⭐ 221 | 🐛 8 | 🌐 Python | 📅 2026-03-14 - AKShare API for Chinese stock market: historical prices, real-time quotes, financial reports, and news.
 * [alphavantage/alpha\_vantage\_mcp](https://github.com/alphavantage/alpha_vantage_mcp) ⭐ 198 | 🐛 1 | 🌐 Python | 📅 2026-08-13 - **Official** Alpha Vantage MCP server: real-time and historical data for stocks, forex, crypto, options, and ETFs.
-* [imbenrabi/Financial-Modeling-Prep-MCP-Server](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) ⭐ 141 | 🐛 3 | 🌐 TypeScript | 📅 2026-07-02 - 250+ Financial Modeling Prep API tools: financials, technical indicators, insider trading, SEC filings, earnings, and crypto.
+* [imbenrabi/Financial-Modeling-Prep-MCP-Server](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) ⭐ 141 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-02 - 250+ Financial Modeling Prep API tools: financials, technical indicators, insider trading, SEC filings, earnings, and crypto.
 * [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) ⭐ 130 | 🐛 8 | 🌐 JavaScript | 📅 2025-12-06 - Cryptocurrency technical analysis indicators (MACD, RSI, Bollinger Bands) via CCXT for AI trading agents.
 * [stefanoamorelli/fred-mcp-server](https://github.com/stefanoamorelli/fred-mcp-server) ⭐ 115 | 🐛 6 | 🌐 TypeScript | 📅 2026-05-16 - Federal Reserve Economic Data (FRED) MCP server: access 800,000+ macroeconomic time series.
 
 ### Trading Execution
 
-* [koreainvestment/open-trading-api](https://github.com/koreainvestment/open-trading-api) ⭐ 1,562 | 🐛 40 | 🌐 Python | 📅 2026-07-28 - **Official** Korea Investment & Securities Open API with MCP and LLM integration for Korean equity market trading.
+* [koreainvestment/open-trading-api](https://github.com/koreainvestment/open-trading-api) ⭐ 1,563 | 🐛 40 | 🌐 Python | 📅 2026-07-28 - **Official** Korea Investment & Securities Open API with MCP and LLM integration for Korean equity market trading.
 * [alpacahq/alpaca-mcp-server](https://github.com/alpacahq/alpaca-mcp-server) ⭐ 918 | 🐛 27 | 🌐 Python | 📅 2026-08-10 - **Official** Alpaca MCP server: natural-language trading of US stocks, ETFs, options, and crypto.
-* [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server) ⭐ 717 | 🐛 27 | 🌐 Python | 📅 2026-03-28 - MCP bridge to MetaTrader 5 for natural-language trade execution and live position tracking across forex and futures.
+* [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server) ⭐ 720 | 🐛 27 | 🌐 Python | 📅 2026-03-28 - MCP bridge to MetaTrader 5 for natural-language trade execution and live position tracking across forex and futures.
 * [krakenfx/kraken-cli](https://github.com/krakenfx/kraken-cli) ⭐ 684 | 🐛 0 | 🌐 Rust | 📅 2026-08-07 - **Official** Kraken AI-native CLI with built-in MCP support for spot trading, portfolio management, and market data.
 * [okx/agent-trade-kit](https://github.com/okx/agent-trade-kit) ⭐ 401 | 🐛 15 | 🌐 TypeScript | 📅 2026-07-29 - **Official** OKX MCP server: AI agent trading of spot, perpetuals, and futures with full order management.
-* [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) ⭐ 381 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-01 - 22-tool MCP server for 60+ EVM-compatible networks: token balances, smart contracts, and DeFi operations.
+* [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) ⭐ 381 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-01 - 22-tool MCP server for 60+ EVM-compatible networks: token balances, smart contracts, and DeFi operations.
 * [rcontesti/IB\_MCP](https://github.com/rcontesti/IB_MCP) ⭐ 139 | 🐛 4 | 🌐 Python | 📅 2025-10-23 - Interactive Brokers TWS/Gateway MCP server for live trading and market access across 150 markets.
 * [QuantConnect/mcp-server](https://github.com/QuantConnect/mcp-server) ⭐ 77 | 🐛 15 | 🌐 Python | 📅 2026-05-07 - **Official** QuantConnect MCP server: write Python trading strategies, run cloud backtests, and deploy live algorithms.
 
 ### Research & Analysis
 
 * [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) ⭐ 1,410 | 🐛 2 | 🌐 Python | 📅 2026-08-11 - Open-source memory MCP for AI trading agents: three-layer architecture (raw memory → pattern reflection → strategy evolution).
-* [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) ⭐ 644 | 🐛 3 | 🌐 Python | 📅 2026-08-15 - Personal stock analysis MCP server: technical indicators, earnings calendars, options flow, and insider trades.
+* [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) ⭐ 644 | 🐛 1 | 🌐 Python | 📅 2026-08-16 - Personal stock analysis MCP server: technical indicators, earnings calendars, options flow, and insider trades.
 * [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) ⭐ 349 | 🐛 37 | 🌐 Python | 📅 2026-08-12 - Direct SEC EDGAR access for AI assistants: 10-K, 10-Q, 8-K filings, and insider trading data.
 
 ## Papers
@@ -140,7 +140,7 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 
 ## Courses & Books & Blogs
 
-* 🌟 [QuantResearch](https://github.com/letianzj/QuantResearch) ⭐ 3,003 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-08-26 - Quantitative analysis, strategies and backtests <https://letianzj.github.io/>
+* 🌟 [QuantResearch](https://github.com/letianzj/QuantResearch) ⭐ 3,004 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-08-26 - Quantitative analysis, strategies and backtests <https://letianzj.github.io/>
 * [Train and Deploy a Serverless API to predict crypto prices](https://github.com/Paulescu/hands-on-train-and-deploy-ml) ⭐ 887 | 🐛 6 | 🌐 Python | 📅 2024-05-29 - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
 * [Advanced-Deep-Trading](https://github.com/Rachnog/Advanced-Deep-Trading) ⭐ 569 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2020-11-29 - Experiments based on "Advances in financial machine learning" book.
 * [MLSys-NYU-2022](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) ⭐ 558 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-12-11 - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
@@ -161,11 +161,11 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers t
 
 Price and Volume process with Technology Analysis Indices
 
-* [FinRL](https://github.com/AI4Finance-LLC/FinRL-Library) ⭐ 16,016 | 🐛 306 | 🌐 Jupyter Notebook | 📅 2026-07-13 - A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.
+* [FinRL](https://github.com/AI4Finance-LLC/FinRL-Library) ⭐ 16,025 | 🐛 306 | 🌐 Jupyter Notebook | 📅 2026-07-13 - A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.
 * 🌟🌟 [stockpredictionai](https://github.com/borisbanushev/stockpredictionai) ⭐ 5,593 | 🐛 364 | 🌐 JavaScript | 📅 2025-08-19 - A complete process for predicting stock price movements.
-* 🌟 [Ensemble-Strategy](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) ⭐ 3,559 | 🐛 54 | 🌐 Python | 📅 2026-05-02 - Deep Reinforcement Learning for Automated Stock Trading.
+* 🌟 [Ensemble-Strategy](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) ⭐ 3,563 | 🐛 54 | 🌐 Python | 📅 2026-05-02 - Deep Reinforcement Learning for Automated Stock Trading.
 * 🌟 [Personae](https://github.com/Ceruleanacg/Personae) ⭐ 1,408 | 🐛 9 | 🌐 Python | 📅 2018-11-29 - Implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.
-* [mlforecast](https://github.com/Nixtla/mlforecast) ⭐ 1,267 | 🐛 13 | 🌐 Python | 📅 2026-08-12 - Scalable machine learning based time series forecasting.
+* [mlforecast](https://github.com/Nixtla/mlforecast) ⭐ 1,268 | 🐛 14 | 🌐 Python | 📅 2026-08-12 - Scalable machine learning based time series forecasting.
 * [stock\_market\_reinforcement\_learning](https://github.com/kh-kim/stock_market_reinforcement_learning) ⭐ 795 | 🐛 18 | 🌐 Python | 📅 2016-12-23 - Stock market trading OpenAI Gym environment with Deep Reinforcement Learning using Keras.
 * [Chaos Genius](https://github.com/chaos-genius/chaos_genius) ⚠️ Archived - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
 * [gym-trading](https://github.com/hackthemarket/gym-trading) ⭐ 710 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2018-02-26 - Environment for reinforcement-learning algorithmic trading models.
@@ -182,17 +182,17 @@ Price and Volume process with Technology Analysis Indices
 
 ### Portfolio Management
 
-* [skfolio](https://github.com/skfolio/skfolio) ⭐ 2,119 | 🐛 24 | 🌐 Python | 📅 2026-08-14 - Python library for portfolio optimization built on top of scikit-learn.
+* [skfolio](https://github.com/skfolio/skfolio) ⭐ 2,163 | 🐛 24 | 🌐 Python | 📅 2026-08-14 - Python library for portfolio optimization built on top of scikit-learn.
 * [PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio) ⭐ 1,848 | 🐛 56 | 🌐 Python | 📅 2021-10-09 - A Deep Reinforcement Learning framework for the financial portfolio management problem.
 * [DeepDow](https://github.com/jankrepl/deepdow) ⭐ 1,181 | 🐛 27 | 🌐 Python | 📅 2024-01-24 - Portfolio optimization with deep learning.
 * [Deep-Reinforcement-Stock-Trading](https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading) ⭐ 693 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-11-06 - A light-weight deep reinforcement learning framework for portfolio management.
 * [qtrader](https://github.com/filangel/qtrader) ⚠️ Archived - Reinforcement Learning for portfolio management.
-* [ml-quant-trading](https://github.com/initial-d/ml-quant-trading) ⭐ 71 | 🐛 2 | 🌐 Python | 📅 2026-08-15 - PyTorch research stack for mask-aware multi-factor modeling, ML baselines, portfolio optimization, and vectorized backtesting.
+* [ml-quant-trading](https://github.com/initial-d/ml-quant-trading) ⭐ 72 | 🐛 2 | 🌐 Python | 📅 2026-08-15 - PyTorch research stack for mask-aware multi-factor modeling, ML baselines, portfolio optimization, and vectorized backtesting.
 
 ### High Frequency Trading
 
-* [High-Frequency-Trading-Model-with-IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) ⭐ 2,915 | 🐛 12 | 🌐 Python | 📅 2025-05-29 - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion.
-* 🌟 [SGX-Full-OrderBook-Tick-Data-Trading-Strategy](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy) ⭐ 2,325 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2022-08-27 - Solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.
+* [High-Frequency-Trading-Model-with-IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) ⭐ 2,913 | 🐛 12 | 🌐 Python | 📅 2025-05-29 - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion.
+* 🌟 [SGX-Full-OrderBook-Tick-Data-Trading-Strategy](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy) ⭐ 2,326 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2022-08-27 - Solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.
 * [HFT\_Bitcoin](https://github.com/ghgr/HFT_Bitcoin) ⭐ 173 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-08-21 - Analysis of High Frequency Trading on Bitcoin exchanges.
 
 ### Event Drive
@@ -213,7 +213,7 @@ Price and Volume process with Technology Analysis Indices
 
 ### Technical Analysis
 
-* [quant-trading](https://github.com/je-suis-tm/quant-trading) ⭐ 10,553 | 🐛 4 | 🌐 Python | 📅 2026-06-20 - Python quantitative trading strategies.
+* [quant-trading](https://github.com/je-suis-tm/quant-trading) ⭐ 10,559 | 🐛 4 | 🌐 Python | 📅 2026-06-20 - Python quantitative trading strategies.
 * [crypto-signal](https://github.com/CryptoSignal/crypto-signal) ⭐ 5,613 | 🐛 60 | 🌐 Python | 📅 2024-07-07 - Automated crypto trading & technical analysis (TA) bot for Bittrex, Binance, GDAX, and more.
 * [Gekko-Strategies](https://github.com/xFFFFF/Gekko-Strategies) ⭐ 1,437 | 🐛 19 | 🌐 JavaScript | 📅 2020-01-09 - Strategies to Gekko trading bot with backtests results and some useful tools.
 * [Gekko-Bot-Resources](https://github.com/cloggy45/Gekko-Bot-Resources) ⚠️ Archived - Gekko bot resources.
@@ -230,7 +230,7 @@ Price and Volume process with Technology Analysis Indices
 
 - [MarginSafe.ai](https://marginsafe.ai) - AI stock analysis platform specialized in intrinsic value and Wyckoff timing.
 
-* [Wickra](https://github.com/wickra-lib/wickra) ⭐ 42 | 🐛 1 | 🌐 Rust | 📅 2026-08-12 - Native library computing 500+ technical-analysis indicators over OHLC data, streaming-first; Rust core with Python, Node.js, WASM and a C ABI (C/C++/C#/Go/Java/R) bindings.
+* [Wickra](https://github.com/wickra-lib/wickra) ⭐ 43 | 🐛 1 | 🌐 Rust | 📅 2026-08-12 - Native library computing 500+ technical-analysis indicators over OHLC data, streaming-first; Rust core with Python, Node.js, WASM and a C ABI (C/C++/C#/Go/Java/R) bindings.
 
 ### Lottery & Gamble
 
@@ -238,9 +238,9 @@ Price and Volume process with Technology Analysis Indices
 
 ### Arbitrage
 
-* [bitcoin-arbitrage](https://github.com/maxme/bitcoin-arbitrage) ⭐ 2,585 | 🐛 15 | 🌐 Python | 📅 2024-10-20 - Bitcoin arbitrage opportunity detector.
+* [bitcoin-arbitrage](https://github.com/maxme/bitcoin-arbitrage) ⭐ 2,584 | 🐛 15 | 🌐 Python | 📅 2024-10-20 - Bitcoin arbitrage opportunity detector.
 * [cryptocurrency-arbitrage](https://github.com/manu354/cryptocurrency-arbitrage) ⭐ 1,279 | 🐛 17 | 🌐 JavaScript | 📅 2022-05-15 - A crypto currency arbitrage opportunity calculator. Over 800 currencies and 50 markets.
-* [r2](https://github.com/bitrinjani/r2) ⭐ 818 | 🐛 33 | 🌐 TypeScript | 📅 2023-04-19 - Automatic arbitrage trading system powered by Node.js + TypeScript.
+* [r2](https://github.com/bitrinjani/r2) ⭐ 817 | 🐛 33 | 🌐 TypeScript | 📅 2023-04-19 - Automatic arbitrage trading system powered by Node.js + TypeScript.
 * [ArbitrageBot](https://github.com/BatuhanUsluel/ArbitrageBot) ⭐ 176 | 🐛 0 | 🌐 Python | 📅 2017-09-10 - Arbitrage bot that currently works on bittrex & poloniex.
 * [blackbird](https://github.com/butor/blackbird) - Long / short market-neutral strategy.
 
@@ -248,7 +248,7 @@ Price and Volume process with Technology Analysis Indices
 
 #### Traditional Markets
 
-* [Tushare](https://github.com/waditu/tushare) ⭐ 15,348 | 🐛 754 | 🌐 Python | 📅 2024-03-13 - TuShare is a utility for crawling historical data of China stocks.
+* [Tushare](https://github.com/waditu/tushare) ⭐ 15,350 | 🐛 754 | 🌐 Python | 📅 2024-03-13 - TuShare is a utility for crawling historical data of China stocks.
 * [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) ⭐ 1,445 | 🐛 88 | 🌐 Python | 📅 2023-12-25 - Python module to get stock data from Yahoo! Finance.
 * [FinanceKit MCP](https://github.com/vdalhambra/financekit-mcp) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-04-17 - MCP server for stock quotes, technical analysis, crypto data, risk metrics, and portfolio analysis. No API keys for core data.
 * 🌟 [Quandl](https://www.quandl.com/tools/api) - Get millions of financial and economic dataset from hundreds of publishers via a single free API.
@@ -279,7 +279,7 @@ Price and Volume process with Technology Analysis Indices
 
 #### News Data
 
-* [WorldMonitor](https://github.com/koala73/worldmonitor) ⭐ 82,129 | 🐛 421 | 🌐 TypeScript | 📅 2026-08-15 - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
+* [WorldMonitor](https://github.com/koala73/worldmonitor) ⭐ 82,391 | 🐛 452 | 🌐 TypeScript | 📅 2026-08-16 - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
 
 #### Alternative Data
 
@@ -293,11 +293,11 @@ Price and Volume process with Technology Analysis Indices
 
 ## Research Tools
 
-* 🌟🌟 [TensorTrade](https://github.com/tensortrade-org/tensortrade) ⭐ 6,712 | 🐛 48 | 🌐 Python | 📅 2026-02-19 - Trade efficiently with reinforcement learning.
-* [pyfolio](https://github.com/quantopian/pyfolio) ⭐ 6,395 | 🐛 166 | 🌐 Jupyter Notebook | 📅 2023-12-23 - Portfolio and risk analytics in Python.
-* [alphalens](https://github.com/quantopian/alphalens) ⭐ 4,415 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2024-02-12 - Performance analysis of predictive (alpha) stock factors.
+* 🌟🌟 [TensorTrade](https://github.com/tensortrade-org/tensortrade) ⭐ 6,730 | 🐛 48 | 🌐 Python | 📅 2026-02-19 - Trade efficiently with reinforcement learning.
+* [pyfolio](https://github.com/quantopian/pyfolio) ⭐ 6,396 | 🐛 166 | 🌐 Jupyter Notebook | 📅 2023-12-23 - Portfolio and risk analytics in Python.
+* [alphalens](https://github.com/quantopian/alphalens) ⭐ 4,416 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2024-02-12 - Performance analysis of predictive (alpha) stock factors.
 * [zvt](https://github.com/zvtvz/zvt) ⭐ 4,261 | 🐛 23 | 🌐 Python | 📅 2026-07-01 - Zero vector trader.
-* [WFGY](https://github.com/onestardao/WFGY) ⭐ 1,778 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-15 – Open source framework for debugging and stress testing LLM agents and RAG pipelines. Includes a 16 mode failure map and long-horizon stress tests that are useful for financial research agents.
+* [WFGY](https://github.com/onestardao/WFGY) ⭐ 1,778 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-16 – Open source framework for debugging and stress testing LLM agents and RAG pipelines. Includes a 16 mode failure map and long-horizon stress tests that are useful for financial research agents.
 * [empyrical](https://github.com/quantopian/empyrical) ⭐ 1,506 | 🐛 37 | 🌐 Python | 📅 2024-07-26 - Common financial risk and performance metrics. Used by Zipline and pyfolio.
 * [JAQS](https://github.com/quantOS-org/JAQS) ⭐ 632 | 🐛 45 | 🌐 Python | 📅 2019-04-25 - An open source quant strategies research platform.
 * [CRNG](https://github.com/brotto/crng) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-04-12 - Contingency RNG, generates random numbers with real market fat tails (K=5-220) and volatility clustering. Matches 86% of real market metrics vs 14% for NumPy. Includes regime detector.
@@ -321,12 +321,12 @@ For Back Test & Live trading
 
 **System**
 
-* 🌟🌟🌟 [OpenBB](https://github.com/OpenBB-finance/OpenBB) ⭐ 71,888 | 🐛 109 | 🌐 Python | 📅 2026-07-30 - AI-powered opensource research and analytics workspace.
-* [backtrader](https://github.com/backtrader/backtrader) ⭐ 22,855 | 🐛 63 | 🌐 Python | 📅 2024-08-19 - Python backtesting library for trading strategies.
-* [lean](https://github.com/QuantConnect/Lean) ⭐ 21,229 | 🐛 264 | 🌐 C# | 📅 2026-08-14 - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
-* 🌟🌟 [zipline](https://github.com/quantopian/zipline) ⭐ 20,040 | 🐛 370 | 🌐 Python | 📅 2024-02-13 - A python algorithmic trading library.
-* [rqalpha](https://github.com/ricequant/rqalpha) ⭐ 6,693 | 🐛 30 | 🌐 Python | 📅 2026-08-10 - A extendable, replaceable Python algorithmic backtest & trading framework.
-* [kungfu](https://github.com/taurusai/kungfu) ⭐ 4,464 | 🐛 47 | 🌐 C++ | 📅 2026-08-15 - Kungfu Master trading system.
+* 🌟🌟🌟 [OpenBB](https://github.com/OpenBB-finance/OpenBB) ⭐ 71,939 | 🐛 110 | 🌐 Python | 📅 2026-07-30 - AI-powered opensource research and analytics workspace.
+* [backtrader](https://github.com/backtrader/backtrader) ⭐ 22,862 | 🐛 63 | 🌐 Python | 📅 2024-08-19 - Python backtesting library for trading strategies.
+* [lean](https://github.com/QuantConnect/Lean) ⭐ 21,239 | 🐛 270 | 🌐 C# | 📅 2026-08-14 - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
+* 🌟🌟 [zipline](https://github.com/quantopian/zipline) ⭐ 20,042 | 🐛 370 | 🌐 Python | 📅 2024-02-13 - A python algorithmic trading library.
+* [rqalpha](https://github.com/ricequant/rqalpha) ⭐ 6,696 | 🐛 30 | 🌐 Python | 📅 2026-08-10 - A extendable, replaceable Python algorithmic backtest & trading framework.
+* [kungfu](https://github.com/taurusai/kungfu) ⭐ 4,470 | 🐛 50 | 🌐 C++ | 📅 2026-08-16 - Kungfu Master trading system.
 * [the0](https://github.com/alexanderwanyoike/the0) ⭐ 389 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-13 - Self-hosted execution engine for algorithmic trading bots. Supports Python, TypeScript, Rust, C++, C#, Scala, and Haskell. Each bot runs in an isolated container with scheduled or streaming execution.
 * [finclaw](https://github.com/NeuZhou/finclaw) ⭐ 28 | 🐛 1 | 📅 2026-04-18 - AI-native quantitative trading engine with 484 alpha factors, genetic algorithm strategy evolution, walk-forward backtesting and paper trading. Supports A-shares, crypto, and MCP server for AI agent integration.
 * 🌟 [TradingView](http://tradingview.com/) - Get real-time information and market insights.
@@ -338,7 +338,7 @@ For Back Test & Live trading
 
 ### Crypto Currencies
 
-* [abu](https://github.com/bbfamily/abu) ⭐ 18,144 | 🐛 6 | 🌐 Python | 📅 2026-01-24 - A quant trading system base on python.
+* [abu](https://github.com/bbfamily/abu) ⭐ 18,155 | 🐛 6 | 🌐 Python | 📅 2026-01-24 - A quant trading system base on python.
 * [zenbot](https://github.com/DeviaVir/zenbot) ⚠️ Archived - Command-line crypto currency trading bot using Node.js and MongoDB.
 * [catalyst](https://github.com/enigmampc/catalyst) ⚠️ Archived - An algorithmic trading library for Crypto-Assets in python.
 * [magic8bot](https://github.com/magic8bot/magic8bot) ⭐ 407 | 🐛 11 | 🌐 TypeScript | 📅 2023-03-04 - Crypto currency trading bot using Node.js and MongoDB.
@@ -363,27 +363,27 @@ For Back Test & Live trading
 Do it in real world!
 
 * [IbPy](https://github.com/blampe/IbPy) ⚠️ Archived - Python API for the Interactive Brokers on-line trading system.
-* [ctpwrapper](https://github.com/nooperpudd/ctpwrapper) ⭐ 602 | 🐛 18 | 🌐 Python | 📅 2026-06-08 - Shanghai future exchange CTP api.
+* [ctpwrapper](https://github.com/nooperpudd/ctpwrapper) ⭐ 603 | 🐛 18 | 🌐 Python | 📅 2026-06-08 - Shanghai future exchange CTP api.
 * [PENDAX](https://github.com/CompendiumFi/PENDAX-SDK) ⭐ 49 | 🐛 1 | 📅 2024-05-09 - Javascript SDK for Trading/Data API and Websockets for cryptocurrency exchanges like FTX, FTXUS, OKX, Bybit, & More
 * [HuobiFeeder](https://github.com/mmmaaaggg/HuobiFeeder) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2022-12-08 - Connect HUOBIPRO exchange, get market/historical data for ABAT trading platform backtest analysis and live trading.
 * [Trade It](https://docs.tradeit.app/mcp) - MCP for trading on common brokerages (Robinhood, ETrade, Schwab, Webull, Public, tastytrade, Coinbase, Kraken so far)
 
 ### Framework
 
-* [tf-quant-finance](https://github.com/google/tf-quant-finance) ⭐ 5,473 | 🐛 41 | 🌐 Python | 📅 2026-08-06 - High-performance TensorFlow library for quantitative finance.
+* [tf-quant-finance](https://github.com/google/tf-quant-finance) ⭐ 5,476 | 🐛 41 | 🌐 Python | 📅 2026-08-06 - High-performance TensorFlow library for quantitative finance.
 
 ### Visualizing
 
-* [netron](https://github.com/lutzroeder/netron) ⭐ 33,355 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-15 - Visualizer for deep learning and machine learning models.
+* [netron](https://github.com/lutzroeder/netron) ⭐ 33,362 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-16 - Visualizer for deep learning and machine learning models.
 * [playground](https://github.com/tensorflow/playground) ⭐ 12,992 | 🐛 148 | 🌐 TypeScript | 📅 2026-06-10 - Play with neural networks.
-* [KLineChart](https://github.com/liihuu/KLineChart) ⭐ 4,056 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-13 - Highly customizable professional lightweight financial charts
+* [KLineChart](https://github.com/liihuu/KLineChart) ⭐ 4,059 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-13 - Highly customizable professional lightweight financial charts
 
 ### GYM Environment
 
 * 🌟 [TradingGym](https://github.com/Yvictor/TradingGym) ⭐ 1,908 | 🐛 11 | 🌐 Python | 📅 2024-02-11 - Trading and Backtesting environment for training reinforcement learning agent.
 * [btgym](https://github.com/Kismuz/btgym) ⭐ 1,034 | 🐛 11 | 🌐 Python | 📅 2021-08-28 - Scalable, event-driven, deep-learning-friendly backtesting library.
 * [TradzQAI](https://github.com/kkuette/TradzQAI) ⭐ 167 | 🐛 7 | 🌐 Python | 📅 2022-06-21 - Trading environment for RL agents, backtesting and training.
-* [TraderHarness](https://github.com/HephaestLab/TraderHarness) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-08-14 - Contamination-resistant A-share backtesting environment for LLM trading agents, with point-in-time masking, entity/date anonymization, fingerprinted replay, and trajectory (SFT) export.
+* [TraderHarness](https://github.com/HephaestLab/TraderHarness) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-08-14 - Contamination-resistant A-share backtesting environment for LLM trading agents, with point-in-time masking, entity/date anonymization, fingerprinted replay, and trajectory (SFT) export.
 
 ## Articles
 
@@ -404,15 +404,15 @@ Do it in real world!
 
 #### Other Resource
 
-* [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) ⭐ 28,819 | 🐛 59 | 🌐 HTML | 📅 2026-08-15 - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
+* [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) ⭐ 28,876 | 🐛 55 | 🌐 HTML | 📅 2026-08-16 - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
 * 🌟🌟🌟 [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) ⚠️ Archived - Stock-Prediction-Models, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
-* 🌟🌟 [Financial Machine Learning](https://github.com/firmai/financial-machine-learning) ⭐ 8,740 | 🐛 15 | 🌐 Python | 📅 2025-01-03 - A curated list of practical financial machine learning (FinML) tools and applications. This collection is primarily in Python.
-* 🌟 [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) ⭐ 3,954 | 🐛 20 | 📅 2025-05-21 - Quant / Algorithm trading resources with an emphasis on Machine Learning.
-* [FinancePy](https://github.com/domokane/FinancePy) ⭐ 3,107 | 🐛 51 | 🌐 Jupyter Notebook | 📅 2026-08-10 - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
+* 🌟🌟 [Financial Machine Learning](https://github.com/firmai/financial-machine-learning) ⭐ 8,745 | 🐛 15 | 🌐 Python | 📅 2025-01-03 - A curated list of practical financial machine learning (FinML) tools and applications. This collection is primarily in Python.
+* 🌟 [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) ⭐ 3,957 | 🐛 20 | 📅 2025-05-21 - Quant / Algorithm trading resources with an emphasis on Machine Learning.
+* [FinancePy](https://github.com/domokane/FinancePy) ⭐ 3,109 | 🐛 51 | 🌐 Jupyter Notebook | 📅 2026-08-10 - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 * [Explore Finance Service Libraries & Projects](https://kandi.openweaver.com/explore/financial-services#Top-Authors) - Explore a curated list of Fintech popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 * [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 listings, 28M+ real energy data records, LangChain/MCP integration.
 * [MeterCall](https://metercall.ai/?v=f\&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
