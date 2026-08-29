@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+            "homepage": "https://arxiv.org/pdf/2412.20138",
             "id": 909213664,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-18T15:55:05Z",
+            "open_issues": 390,
             "owner": "TauricResearch",
             "repo": "TradingAgents",
-            "stars": 101353
+            "stars": 101606,
+            "topics": [
+              "agent",
+              "finance",
+              "llm",
+              "multiagent",
+              "trading"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -26,12 +37,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+            "homepage": "https://vibetrading.wiki/",
             "id": 1198306812,
             "language": "Python",
-            "last_commit": "2026-08-27T07:02:29Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T15:48:29Z",
+            "open_issues": 30,
             "owner": "HKUDS",
             "repo": "Vibe-Trading",
-            "stars": 31918
+            "stars": 31984,
+            "topics": [
+              "ai-agent",
+              "algorithmic-trading",
+              "backtesting",
+              "fintech",
+              "llm",
+              "mcp",
+              "multi-agent",
+              "python",
+              "quantitative-finance",
+              "trading"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -42,12 +69,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.",
+            "homepage": "https://vergex.trade/download",
             "id": 1084802670,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-20T16:26:28Z",
+            "open_issues": 518,
             "owner": "NoFxAiOS",
             "repo": "nofx",
-            "stars": 12768
+            "stars": 12775,
+            "topics": [
+              "agentictrading",
+              "ai",
+              "ai-trading",
+              "arbitrage",
+              "binance",
+              "bitcoin",
+              "commodities",
+              "exchange",
+              "forex",
+              "hyperliquid",
+              "metals",
+              "perp-dex",
+              "stocks",
+              "trading",
+              "us-stocks",
+              "x402",
+              "x402-agent"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -58,12 +108,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models",
+            "homepage": "https://finrobot.ai",
             "id": 763842651,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T12:06:08Z",
+            "open_issues": 74,
             "owner": "AI4Finance-Foundation",
             "repo": "FinRobot",
-            "stars": 7878
+            "stars": 7885,
+            "topics": [
+              "aiagent",
+              "chatgpt",
+              "finance",
+              "fingpt",
+              "large-language-models",
+              "multimodal-deep-learning",
+              "prompt-engineering",
+              "robo-advisor"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -74,12 +138,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
+            "homepage": null,
             "id": 1179164349,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-27T19:40:53Z",
+            "open_issues": 4,
             "owner": "chrisworsey55",
             "repo": "atlas-gic",
-            "stars": 2088
+            "stars": 2089,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -90,12 +159,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prediction-market trading engine — Wang Transform pricing on 291K+ contracts; paper-traded across Kalshi · Polymarket · Solana DFlow (Jito bundles) · 633 tests",
+            "homepage": "https://yichengyang-ethan.github.io/oracle3",
             "id": 1169524736,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-08T07:48:25Z",
+            "open_issues": 18,
             "owner": "YichengYang-Ethan",
             "repo": "oracle3",
-            "stars": 249
+            "stars": 251,
+            "topics": [
+              "ai-agent",
+              "algorithmic-trading",
+              "arbitrage",
+              "autonomous-agent",
+              "defi-trading",
+              "dflow",
+              "hierarchical-mle",
+              "jito-bundles",
+              "kalshi",
+              "kelly-criterion",
+              "llm",
+              "on-chain",
+              "polymarket",
+              "prediction-market",
+              "prediction-markets",
+              "python",
+              "quantitative-finance",
+              "solana",
+              "trading-bot",
+              "wang-transform"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -106,12 +201,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evidence-driven stock market analysis CLI for A/HK/US/JP/KR stocks, funds, and portfolios.",
+            "homepage": "https://github.com/AdvancingTitans/stock-analysis",
             "id": 1251062095,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-28T13:51:34Z",
+            "open_issues": 1,
             "owner": "AdvancingTitans",
             "repo": "stock-analysis",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "a-shares",
+              "ai-agent",
+              "chinese-stock-market",
+              "cli",
+              "data-quality",
+              "eastmoney",
+              "finance",
+              "financial-data",
+              "hong-kong-stocks",
+              "investment",
+              "market-data",
+              "portfolio-analysis",
+              "pypi",
+              "python",
+              "quantitative-finance",
+              "sentiment-analysis",
+              "stock-market",
+              "technical-analysis",
+              "trading",
+              "us-stocks"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -122,12 +243,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open BTC 5-minute prediction market sandbox for AI agents — register with one API call, get 1,000 test credits, and place a live order",
+            "homepage": "https://profitplay-1066795472378.us-east1.run.app/agents",
             "id": 1180343793,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T08:39:58Z",
+            "open_issues": 8,
             "owner": "jarvismaximum-hue",
             "repo": "profitplay-starter",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "agent-framework",
+              "ai-agents",
+              "ai-arena",
+              "algorithmic-trading",
+              "autonomous-agents",
+              "btc",
+              "cryptocurrency",
+              "fintech",
+              "machine-learning",
+              "mcp",
+              "model-context-protocol",
+              "nodejs",
+              "prediction-markets",
+              "profitplay",
+              "python",
+              "sdk",
+              "starter-template",
+              "trading-bot",
+              "typescript",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -138,12 +285,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kickstarter for AI Agents - Crowdfunding platform where agents fund agents",
+            "homepage": null,
             "id": 1147564588,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-02T05:11:53Z",
+            "open_issues": 0,
             "owner": "RioTheGreat-ai",
             "repo": "agentfund",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "ai-agents",
+              "autonomous-agents",
+              "base-chain",
+              "crowdfunding",
+              "escrow",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -154,12 +313,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source runtime for auditable multi-agent evaluation, starting with professional capital-market investment agents.",
+            "homepage": "https://tonyworld888-tracearena-demo.static.hf.space/index.html",
             "id": 1303668247,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T20:15:41Z",
+            "open_issues": 6,
             "owner": "tonyhyworld",
             "repo": "TraceArena",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "agent-benchmark",
+              "agent-evaluation",
+              "agent-planning",
+              "agent-runtime",
+              "agent-worlds",
+              "ai-world",
+              "auditable-ai",
+              "capital-markets",
+              "decision-intelligence",
+              "investment-agents",
+              "multi-agent",
+              "open-source",
+              "physical-world-ai",
+              "physical-world-os",
+              "scenario-packs",
+              "simulation",
+              "world-simulation"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         }
@@ -176,12 +358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI Hedge Fund Team",
+            "homepage": null,
             "id": 896144595,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-07T17:21:58Z",
+            "open_issues": 162,
             "owner": "virattt",
             "repo": "ai-hedge-fund",
-            "stars": 63069
+            "stars": 63076,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -192,12 +379,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.",
+            "homepage": "https://fingpt.io",
             "id": 600544354,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-02T03:23:48Z",
+            "open_issues": 86,
             "owner": "AI4Finance-Foundation",
             "repo": "FinGPT",
-            "stars": 21164
+            "stars": 21170,
+            "topics": [
+              "chatgpt",
+              "finance",
+              "fingpt",
+              "fintech",
+              "large-language-models",
+              "machine-learning",
+              "nlp",
+              "prompt-engineering",
+              "pytorch",
+              "reinforcement-learning",
+              "robo-advisor",
+              "sentiment-analysis",
+              "technical-analysis"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -208,12 +414,36 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+            "homepage": null,
             "id": 659581192,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-12-09T14:55:28Z",
+            "open_issues": 19,
             "owner": "iusztinpaul",
             "repo": "hands-on-llms",
-            "stars": 3422
+            "stars": 3422,
+            "topics": [
+              "3-pipeline-design",
+              "aws",
+              "beam",
+              "bytewax",
+              "cicd",
+              "comet-ml",
+              "docker",
+              "fine-tuning",
+              "generative-ai",
+              "huggingface",
+              "langchain",
+              "llmops",
+              "llms",
+              "mlops",
+              "qdrant",
+              "qlora",
+              "streaming",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -224,12 +454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MarS: a Financial Market Simulation Engine Powered by Generative Foundation Model",
+            "homepage": null,
             "id": 879626601,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-11T00:10:33Z",
+            "open_issues": 15,
             "owner": "microsoft",
             "repo": "MarS",
-            "stars": 1778
+            "stars": 1777,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -240,12 +475,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).",
+            "homepage": null,
             "id": 648461026,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-03-04T16:57:22Z",
+            "open_issues": 12,
             "owner": "The-FinAI",
             "repo": "PIXIU",
-            "stars": 884
+            "stars": 884,
+            "topics": [
+              "aifinance",
+              "chatgpt",
+              "fintech",
+              "gpt-4",
+              "large-language-models",
+              "llama",
+              "machine-learning",
+              "named-entity-recognition",
+              "natural-language-processing",
+              "nlp",
+              "pixiu",
+              "question-answering",
+              "sentiment-analysis",
+              "stock-price-prediction",
+              "text-classification"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -256,12 +512,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ESGenius: EMNLP 2025 Main Oral benchmark for LLM ESG and sustainability knowledge, with 1,136 questions, evaluation code, interactive heatmap, and Hugging Face dataset release.",
+            "homepage": "https://angel-ntu.github.io/ESGenius/",
             "id": 993876184,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-15T15:06:59Z",
+            "open_issues": 3,
             "owner": "ANGEL-NTU",
             "repo": "ESGenius",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "benchmark",
+              "climate-disclosure",
+              "dataset",
+              "emnlp",
+              "emnlp-2025",
+              "esg",
+              "evaluation",
+              "github-pages",
+              "huggingface",
+              "huggingface-datasets",
+              "large-language-models",
+              "llm",
+              "model-evaluation",
+              "nlp",
+              "retrieval-augmented-generation",
+              "sustainability",
+              "sustainability-reporting"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -272,12 +551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dataset designed to support multimodal question answering over real-world ESG documents",
+            "homepage": null,
             "id": 991957241,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-07T08:46:26Z",
+            "open_issues": 1,
             "owner": "Zhanglei1103",
             "repo": "MMESGBench",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         }
@@ -294,12 +578,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code stock analysis skill: SEC EDGAR + market data, /analyze /score /compare — free, local Python tools. By XVARY Research.",
+            "homepage": "https://xvary.com",
             "id": 1189060136,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-23T18:00:31Z",
+            "open_issues": 0,
             "owner": "xvary-research",
             "repo": "claude-code-stock-analysis-skill",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "ai-skills",
+              "anthropic",
+              "claude-code",
+              "claude-plugin",
+              "edgar",
+              "equity-research",
+              "investing",
+              "python",
+              "sec-edgar",
+              "stock-analysis",
+              "xvary"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -310,12 +611,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public Repository for agent skills",
+            "homepage": null,
             "id": 1179780949,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-03-12T11:28:12Z",
+            "open_issues": 0,
             "owner": "CFA-Institute-RPC",
             "repo": "skills",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -326,12 +632,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A trading journal that makes you state your reason at the moment of entry — Claude skill + your own Notion DB",
+            "homepage": "https://spiral-jump-106.notion.site/5ac095dfaafb4fd389875db6a5c7193a",
             "id": 1288924918,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-07T08:33:23Z",
+            "open_issues": 1,
             "owner": "cruisekkk",
             "repo": "trading-ledger",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "agent-skills",
+              "ai",
+              "claude",
+              "claude-code",
+              "journaling",
+              "llm",
+              "market-wizards",
+              "notion",
+              "notion-template",
+              "quantified-self",
+              "trading",
+              "trading-journal"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -342,12 +666,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skills, plugin stack, and MCP configuration for Ethical Capital.",
+            "homepage": "https://ethicic.com/legal/disclosures/",
             "id": 1088468117,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-27T13:22:13Z",
+            "open_issues": 0,
             "owner": "ethicalcapital",
             "repo": "skills",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "fiduciary",
+              "finops",
+              "investment",
+              "investment-management",
+              "ria"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         }
@@ -366,12 +701,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TradingView MCP server — real-time market data, technical analysis, screeners & backtesting for Claude, ChatGPT, Cursor & any MCP client. Stocks, crypto, forex & futures across global exchanges. Hosted or self-host.",
+                "homepage": "https://pro.cryptosieve.com",
                 "id": 1034736943,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T21:40:11Z",
+                "open_issues": 13,
                 "owner": "atilaahmettaner",
                 "repo": "tradingview-mcp",
-                "stars": 4265
+                "stars": 4280,
+                "topics": [
+                  "claude-desktop",
+                  "cryptocurrency",
+                  "futures",
+                  "market-data",
+                  "mcp-server",
+                  "mcp-tools",
+                  "model-context-protocol",
+                  "openclaw",
+                  "stock-market",
+                  "technical-analysis",
+                  "trading-mcp",
+                  "trading-strategies",
+                  "tradingview"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -382,12 +736,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read and analyze SEC EDGAR filings in Python. 10-K, 8-K, XBRL financials, Form 3/4/5, 13F, ADV — clean API, well-typed, MIT-licensed.",
+                "homepage": "https://edgartools.readthedocs.io/",
                 "id": 581872397,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T14:00:20Z",
+                "open_issues": 25,
                 "owner": "dgunning",
                 "repo": "edgartools",
-                "stars": 2629
+                "stars": 2631,
+                "topics": [
+                  "10-k",
+                  "10-q",
+                  "13-f",
+                  "8-k",
+                  "balance-sheet",
+                  "bdc",
+                  "cashflow-statement",
+                  "company",
+                  "cusip",
+                  "edgar",
+                  "filings",
+                  "financials",
+                  "form-4",
+                  "income-statement",
+                  "insider-trading",
+                  "sec",
+                  "tickers",
+                  "xbrl"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -398,12 +776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP server for interacting with the Financial Datasets stock market API.",
+                "homepage": "https://www.financialdatasets.ai/",
                 "id": 944516885,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-05T19:50:38Z",
+                "open_issues": 14,
                 "owner": "financial-datasets",
                 "repo": "mcp-server",
-                "stars": 2282
+                "stars": 2282,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -414,12 +797,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TickDB: AI-native real time stock API and market data API for US stocks, HK stocks, A-shares, forex, crypto, indices and commodities. Skill, CLI, MCP, REST API and WebSocket. AI 原生实时股票 API 与金融行情数据 API，支持美股、港股、A 股、外汇、加密货币、指数和大宗商品。",
+                "homepage": "https://tickdb.ai",
                 "id": 1131970897,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-20T15:31:17Z",
+                "open_issues": 3,
                 "owner": "TickDB",
                 "repo": "tickdb-unified-realtime-marketdata-api",
-                "stars": 717
+                "stars": 721,
+                "topics": [
+                  "ai-tools",
+                  "cli-tool",
+                  "commodities",
+                  "cryptocurrency",
+                  "financial-data",
+                  "forex",
+                  "indices",
+                  "market-data",
+                  "mcp",
+                  "order-book",
+                  "real-time",
+                  "rest-api",
+                  "skill",
+                  "stock",
+                  "stock-api",
+                  "stock-data",
+                  "stock-market",
+                  "stocks",
+                  "tick-data",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -430,12 +839,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "这是一个金融领域相关的mcp,本项目通过集成 Tushare API 和 Binance API 为语言模型（如Claude）提供全面的实时金融数据访问能力，支持股票、基金、债券、宏观经济指标、稳定币、虚拟货币等多维度金融数据分析。其中也包含了金融数据查询、财经新闻查询、国家统计局数据查询等",
+                "homepage": "https://finvestai.top/",
                 "id": 980938785,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T03:44:13Z",
+                "open_issues": 5,
                 "owner": "guangxiangdebizi",
                 "repo": "FinanceMCP",
-                "stars": 654
+                "stars": 656,
+                "topics": [
+                  "binance",
+                  "data",
+                  "finance",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "news",
+                  "stablecoin",
+                  "tushare"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -446,12 +870,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP server for Massive.com Financial Market Data",
+                "homepage": null,
                 "id": 951563472,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-11T16:25:26Z",
+                "open_issues": 8,
                 "owner": "massive-com",
                 "repo": "mcp_massive",
-                "stars": 385
+                "stars": 386,
+                "topics": [
+                  "cryptocurrency",
+                  "fintech",
+                  "llm",
+                  "market-data",
+                  "mcp",
+                  "mcp-server",
+                  "options",
+                  "stocks"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -462,12 +900,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a Model Context Protocol (MCP) server that provides comprehensive financial data from Yahoo Finance. It allows you to retrieve detailed information about stocks, including historical prices, company information, financial statements, options data, and market news.",
+                "homepage": null,
                 "id": 961423058,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-23T22:59:31Z",
+                "open_issues": 11,
                 "owner": "Alex2Yang97",
                 "repo": "yahoo-finance-mcp",
-                "stars": 343
+                "stars": 343,
+                "topics": [
+                  "mcp",
+                  "mcp-server",
+                  "yahoo-finance",
+                  "yfinance",
+                  "yfinance-mcp"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -478,12 +927,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server that provides access to Chinese stock market data using akshare-one",
+                "homepage": null,
                 "id": 962429346,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-14T22:13:52Z",
+                "open_issues": 8,
                 "owner": "zwldarren",
                 "repo": "akshare-one-mcp",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "akshare",
+                  "mcp",
+                  "mcp-server",
+                  "stock-data"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -494,12 +953,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alpha Vantage MCP Server",
+                "homepage": "https://mcp.alphavantage.co",
                 "id": 1027446090,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:23:37Z",
+                "open_issues": 1,
                 "owner": "alphavantage",
                 "repo": "alpha_vantage_mcp",
-                "stars": 204
+                "stars": 204,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -510,12 +974,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model Context Protocol (MCP) implementation for Financial Modeling Prep, enabling AI assistants to access and analyze financial data, stock information, company fundamentals, and market insights.",
+                "homepage": null,
                 "id": 988409529,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-02T17:24:51Z",
+                "open_issues": 2,
                 "owner": "imbenrabi",
                 "repo": "Financial-Modeling-Prep-MCP-Server",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "ai",
+                  "etf-investments",
+                  "financial-modeling-prep",
+                  "fmp",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "mcp-tools",
+                  "smithery-ai",
+                  "stock-data",
+                  "stock-market"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -526,12 +1007,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP server providing a range of cryptocurrency technical analysis indicators and strategies.",
+                "homepage": null,
                 "id": 953321792,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-12-06T01:07:31Z",
+                "open_issues": 8,
                 "owner": "kukapay",
                 "repo": "crypto-indicators-mcp",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -542,12 +1028,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source FRED MCP Server (Federal Reserve Economic Data)",
+                "homepage": "https://fred-mcp-server.amorelli.tech",
                 "id": 981791515,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-22T18:34:49Z",
+                "open_issues": 6,
                 "owner": "stefanoamorelli",
                 "repo": "fred-mcp-server",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "data",
+                  "data-analysis-project",
+                  "finance",
+                  "financial-analysis",
+                  "genai",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "model-context-protocol-server"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -565,12 +1067,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Korea Investment & Securities Open API Github",
+                "homepage": "https://apiportal.koreainvestment.com",
                 "id": 479235940,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-26T06:39:56Z",
+                "open_issues": 40,
                 "owner": "koreainvestment",
                 "repo": "open-trading-api",
-                "stars": 1583
+                "stars": 1584,
+                "topics": [
+                  "ai-trading",
+                  "api-samples",
+                  "autotrade",
+                  "chatgpt",
+                  "claude",
+                  "finance",
+                  "investment",
+                  "koreainvestment",
+                  "llm",
+                  "mcp",
+                  "open-trading-api",
+                  "openapi",
+                  "python",
+                  "realtime",
+                  "rest-api",
+                  "stock-trading",
+                  "stocks",
+                  "trading",
+                  "trading-api",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -581,12 +1109,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alpaca’s official MCP Server lets you trade stocks, ETFs, crypto, and options, run data analysis, and build strategies in plain English directly from your favorite LLM tools and IDEs",
+                "homepage": "https://alpaca.markets/algotrading",
                 "id": 995562554,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T12:03:25Z",
+                "open_issues": 25,
                 "owner": "alpacahq",
                 "repo": "alpaca-mcp-server",
-                "stars": 927
+                "stars": 928,
+                "topics": [
+                  "ai-trading",
+                  "algorithmic-trading",
+                  "crypto",
+                  "etfs",
+                  "mcp",
+                  "mcp-server",
+                  "options",
+                  "stocks",
+                  "trading",
+                  "trading-api"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -597,12 +1141,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform",
+                "homepage": null,
                 "id": 963828488,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-28T18:39:29Z",
+                "open_issues": 27,
                 "owner": "ariadng",
                 "repo": "metatrader-mcp-server",
-                "stars": 778
+                "stars": 779,
+                "topics": [
+                  "ai",
+                  "finance",
+                  "investment",
+                  "llm",
+                  "mcp",
+                  "metatrader",
+                  "quantitative-finance",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -613,12 +1171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The first AI-native CLI for trading crypto, stocks, forex, and derivatives.",
+                "homepage": null,
                 "id": 1174829564,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-07T13:43:41Z",
+                "open_issues": 1,
                 "owner": "krakenfx",
                 "repo": "kraken-cli",
-                "stars": 698
+                "stars": 699,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -629,12 +1192,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OKX trading MCP server — connect AI agents to spot, swap, futures, options & grid bots via the Model Context Protocol.  ",
+                "homepage": null,
                 "id": 1171575871,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-21T09:48:03Z",
+                "open_issues": 12,
                 "owner": "okx",
                 "repo": "agent-trade-kit",
-                "stars": 412
+                "stars": 415,
+                "topics": [
+                  "ai-agent",
+                  "crypto-trading",
+                  "mcp",
+                  "model-context-protocol",
+                  "okx",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -645,12 +1220,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server that provides LLMs with tools for interacting with EVM networks",
+                "homepage": null,
                 "id": 945212492,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-01T15:41:26Z",
+                "open_issues": 13,
                 "owner": "mcpdotdirect",
                 "repo": "evm-mcp-server",
-                "stars": 382
+                "stars": 382,
+                "topics": [
+                  "agent",
+                  "blockchain",
+                  "ethereum",
+                  "evm",
+                  "mcp",
+                  "mcp-server"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -661,12 +1248,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project provides an Interactive Brokers (IB) API interface using the Model Context Protocol (MCP).",
+                "homepage": null,
                 "id": 971614345,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-23T19:49:51Z",
+                "open_issues": 3,
                 "owner": "rcontesti",
                 "repo": "IB_MCP",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "fastmcp",
+                  "interactive-brokers",
+                  "mcp-server",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -677,12 +1274,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Python MCP server for local interactions with the QuantConnect API",
+                "homepage": "https://www.quantconnect.com/mcp",
                 "id": 1007787283,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-07T16:17:32Z",
+                "open_issues": 16,
                 "owner": "QuantConnect",
                 "repo": "mcp-server",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "algorithmic-trading",
+                  "finance",
+                  "mcp",
+                  "quantitative-finance"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -700,12 +1307,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decision audit trail + persistent memory for AI trading agents. Outcome-weighted recall, tamper-evident SHA-256 chain with RFC 3161 anchoring, 20 MCP tools.",
+                "homepage": "https://mnemox.ai/tradememory/",
                 "id": 1164655740,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-11T17:55:53Z",
+                "open_issues": 5,
                 "owner": "mnemox-ai",
                 "repo": "tradememory-protocol",
-                "stars": 1412
+                "stars": 1412,
+                "topics": [
+                  "agentic-trading",
+                  "ai-agents",
+                  "audit-trail",
+                  "claude",
+                  "compliance",
+                  "crypto",
+                  "evolution-engine",
+                  "forex",
+                  "mcp",
+                  "mcp-server",
+                  "memory",
+                  "mt5",
+                  "outcome-weighted-memory",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -716,12 +1343,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MaverickMCP - Personal Stock Analysis MCP Server",
+                "homepage": "https://sethhobson.com",
                 "id": 1043767874,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:43:40Z",
+                "open_issues": 3,
                 "owner": "wshobson",
                 "repo": "maverick-mcp",
-                "stars": 652
+                "stars": 653,
+                "topics": [
+                  "ai-agents",
+                  "algorithmic-trading",
+                  "anthropic",
+                  "backtesting",
+                  "claude",
+                  "fastmcp",
+                  "finance",
+                  "financial-analysis",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "python",
+                  "quantitative-finance",
+                  "stock-analysis",
+                  "stock-market",
+                  "stocks",
+                  "technical-analysis",
+                  "trading",
+                  "yfinance"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -732,12 +1385,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A SEC EDGAR MCP (Model Context Protocol) Server",
+                "homepage": "https://sec-edgar-mcp.amorelli.tech/",
                 "id": 958733763,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-21T10:17:34Z",
+                "open_issues": 36,
                 "owner": "stefanoamorelli",
                 "repo": "sec-edgar-mcp",
-                "stars": 352
+                "stars": 353,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "edgar",
+                  "edgar-database",
+                  "finance",
+                  "genai",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "model-context-protocol-server"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -759,12 +1429,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quantitative analysis, strategies and backtests",
+            "homepage": "https://letianzj.github.io/",
             "id": 275286502,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-08-26T12:16:05Z",
+            "open_issues": 1,
             "owner": "letianzj",
             "repo": "QuantResearch",
-            "stars": 3009
+            "stars": 3009,
+            "topics": [
+              "algorithmic-trading",
+              "algotrading",
+              "asset-allocation",
+              "asset-management",
+              "backtesting-trading-strategies",
+              "backtests",
+              "data-science",
+              "deep-learning",
+              "derivatives-pricing",
+              "financial-analysis",
+              "machine-learning",
+              "pairs-trading",
+              "portfolio-management",
+              "quantitative-finance",
+              "quantitative-trading",
+              "reinforcement-learning",
+              "risk-management",
+              "statistical-arbitrage",
+              "trading-algorithms",
+              "trading-strategies"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -775,12 +1471,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Train and Deploy an ML REST API to predict crypto prices, in 10 steps",
+            "homepage": "https://www.realworldml.net/subscribe",
             "id": 641373198,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-29T14:48:32Z",
+            "open_issues": 6,
             "owner": "Paulescu",
             "repo": "hands-on-train-and-deploy-ml",
-            "stars": 889
+            "stars": 889,
+            "topics": [
+              "crypto",
+              "deployment",
+              "ml",
+              "mlops"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -791,12 +1497,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mostly experiments based on \"Advances in financial machine learning\" book",
+            "homepage": null,
             "id": 171053047,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2020-11-29T20:13:00Z",
+            "open_issues": 5,
             "owner": "Rachnog",
             "repo": "Advanced-Deep-Trading",
-            "stars": 570
+            "stars": 570,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -807,12 +1518,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slides, scripts and materials for the Machine Learning in Finance Course at NYU Tandon, 2022",
+            "homepage": null,
             "id": 519358814,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-12-11T23:07:20Z",
+            "open_issues": 0,
             "owner": "jacopotagliabue",
             "repo": "MLSys-NYU-2022",
-            "stars": 558
+            "stars": 558,
+            "topics": [
+              "coursework",
+              "fraud-detection",
+              "introduction-to-machine-learning",
+              "machine-learning",
+              "mlops",
+              "recommender-system"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -823,12 +1546,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sources codes for: Mastering Python for Finance, Second Edition",
+            "homepage": null,
             "id": 144715854,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-02-03T13:41:58Z",
+            "open_issues": 6,
             "owner": "jamesmawm",
             "repo": "mastering-python-for-finance-second-edition",
-            "stars": 472
+            "stars": 472,
+            "topics": [
+              "ai",
+              "machine-learning",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -839,12 +1571,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repository for The Automation Ahead series, showcasing practical examples for GenAI-driven automation in investments. Each installment dives into specific tools, techniques, and use cases to help professionals assess and apply GenAI effectively.",
+            "homepage": null,
             "id": 888020822,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-05-08T15:42:08Z",
+            "open_issues": 1,
             "owner": "CFA-Institute-RPC",
             "repo": "The-Automation-Ahead",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "finance",
+              "financial-data",
+              "jupyter-notebook",
+              "natural-language-processing",
+              "quantitative-finance"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         }
@@ -863,12 +1608,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FinRL®:  Financial Reinforcement Learning. 🔥",
+                "homepage": "https://ai4finance.org",
                 "id": 282653872,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-07-13T23:02:18Z",
+                "open_issues": 310,
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinRL",
-                "stars": 16126
+                "stars": 16130,
+                "topics": [
+                  "algorithmic-trading",
+                  "deep-reinforcement-learning",
+                  "drl-algorithms",
+                  "drl-framework",
+                  "drl-trading-agents",
+                  "finance",
+                  "fintech",
+                  "multi-agent-learning",
+                  "openai-gym",
+                  "pythorch",
+                  "stock-markets",
+                  "stock-trading",
+                  "tensorflow2",
+                  "trading-tasks"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -879,12 +1644,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "       In this noteboook I will create a complete process for predicting stock price movements. Follow along and we will achieve some pretty good results. For that purpose we will use a Generative Adversarial Network (GAN) with LSTM, a type of Recurrent Neural Network, as generator, and a Convolutional Neural Network, CNN, as a discriminator. We use LSTM for the obvious reason that we are trying to predict time series data. Why we use GAN and specifically CNN as a discriminator? That is a good question: there are special sections on that later.",
+                "homepage": null,
                 "id": 164816947,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-08-19T04:04:58Z",
+                "open_issues": 364,
                 "owner": "borisbanushev",
                 "repo": "stockpredictionai",
-                "stars": 5592
+                "stars": 5594,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -895,12 +1665,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading",
+                "homepage": "https://ai4finance.org",
                 "id": 282652875,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-02T15:12:44Z",
+                "open_issues": 55,
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinRL-Trading",
-                "stars": 3596
+                "stars": 3598,
+                "topics": [
+                  "a2c-algorithm",
+                  "automated-stock-trading",
+                  "ddpg",
+                  "deep-reinforcement-learning",
+                  "ensemble-strategy",
+                  "finrl",
+                  "finrl-x",
+                  "portfolio",
+                  "portfolio-allocation",
+                  "ppo",
+                  "sharpe-ratio",
+                  "stock-selection",
+                  "stock-trading",
+                  "stock-trading-strategy"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -911,12 +1701,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📈 Personae is a repo of implements and environment of Deep Reinforcement Learning & Supervised Learning for Quantitative Trading.",
+                "homepage": null,
                 "id": 124648869,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-11-29T17:06:12Z",
+                "open_issues": 9,
                 "owner": "Ceruleanacg",
                 "repo": "Personae",
-                "stars": 1409
+                "stars": 1409,
+                "topics": [
+                  "paper",
+                  "reinforcement-learning",
+                  "stock",
+                  "stock-data",
+                  "stock-price-prediction",
+                  "supervised-learning",
+                  "time-series-prediction",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -927,12 +1731,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalable machine 🤖 learning for time series forecasting.",
+                "homepage": "https://nixtlaverse.nixtla.io/mlforecast",
                 "id": 361892304,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T18:10:09Z",
+                "open_issues": 18,
                 "owner": "Nixtla",
                 "repo": "mlforecast",
-                "stars": 1273
+                "stars": 1274,
+                "topics": [
+                  "dask",
+                  "forecast",
+                  "forecasting",
+                  "lightgbm",
+                  "machine-learning",
+                  "python",
+                  "time-series",
+                  "xgboost"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -943,12 +1761,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project provides a stock market environment using OpenGym with Deep Q-learning and Policy Gradient.",
+                "homepage": null,
                 "id": 69974468,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-12-23T07:34:59Z",
+                "open_issues": 18,
                 "owner": "kh-kim",
                 "repo": "stock_market_reinforcement_learning",
-                "stars": 797
+                "stars": 797,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -959,12 +1782,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ML powered analytics engine for outlier detection and root cause analysis.",
+                "homepage": "https://www.chaosgenius.io",
                 "id": 371296634,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-12T07:46:44Z",
+                "open_issues": 74,
                 "owner": "chaos-genius",
                 "repo": "chaos_genius",
-                "stars": 778
+                "stars": 778,
+                "topics": [
+                  "ai",
+                  "alert",
+                  "alert-messages",
+                  "analytics",
+                  "anomaly-detection",
+                  "business-intelligence",
+                  "data-visualization",
+                  "dataquality",
+                  "deep-learning",
+                  "hacktoberfest",
+                  "machine-learning",
+                  "ml",
+                  "monitoring",
+                  "monitoring-tool",
+                  "observability",
+                  "outlier-detection",
+                  "python",
+                  "rootcauseanalysis",
+                  "seasonality",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -975,12 +1824,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Environment for reinforcement-learning algorithmic trading models",
+                "homepage": null,
                 "id": 76069164,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2018-02-26T23:31:29Z",
+                "open_issues": 6,
                 "owner": "hackthemarket",
                 "repo": "gym-trading",
-                "stars": 709
+                "stars": 709,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -991,12 +1845,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trading Environment(OpenAI Gym) + DDQN (Keras-RL)",
+                "homepage": null,
                 "id": 145957099,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-08T02:47:26Z",
+                "open_issues": 35,
                 "owner": "miroblog",
                 "repo": "deep_rl_trader",
-                "stars": 414
+                "stars": 414,
+                "topics": [
+                  "deep-reinforcement-learning",
+                  "keras",
+                  "keras-rl",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1007,12 +1871,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "机器学习和量化分析学习进行中",
+                "homepage": null,
                 "id": 101140370,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2018-02-03T09:26:21Z",
+                "open_issues": 0,
                 "owner": "AlphaSmartDog",
                 "repo": "DeepLearningNotes",
-                "stars": 380
+                "stars": 380,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1023,12 +1892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Every day, millions of traders around the world are trying to make money by trading stocks. These days, physical traders are also being replaced by automated trading robots. Algorithmic trading market has experienced significant growth rate and large number of firms are using it. I have tried to build a Deep Q-learning reinforcement agent model to do automated stock trading.",
+                "homepage": null,
                 "id": 172209213,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-08-31T15:34:07Z",
+                "open_issues": 0,
                 "owner": "sachink2010",
                 "repo": "AutomatedStockTrading-DeepQ-Learning",
-                "stars": 295
+                "stars": 295,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1039,12 +1913,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trading Environment(OpenAI Gym) + PPO(TensorForce)",
+                "homepage": null,
                 "id": 146087001,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-08T02:47:31Z",
+                "open_issues": 36,
                 "owner": "miroblog",
                 "repo": "tf_deep_rl_trader",
-                "stars": 252
+                "stars": 252,
+                "topics": [
+                  "ppo",
+                  "proximal-policy-optimization",
+                  "stock-market",
+                  "tensorflow",
+                  "tensorforce",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1055,12 +1941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This trading-gym is the first trading for agent to train with episode of short term trading itself. ",
+                "homepage": null,
                 "id": 135882077,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-08T02:17:12Z",
+                "open_issues": 28,
                 "owner": "6-Billionaires",
                 "repo": "trading-gym",
-                "stars": 235
+                "stars": 235,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1071,12 +1962,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Reinforcement Learning for Financial Trading using Price Trailing @ ICASSP 2019",
+                "homepage": null,
                 "id": 182741568,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-24T23:44:20Z",
+                "open_issues": 6,
                 "owner": "Kostis-S-Z",
                 "repo": "trading-rl",
-                "stars": 223
+                "stars": 223,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1087,12 +1983,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Research experiments exploring uncommon quant techniques.",
+                "homepage": null,
                 "id": 952552235,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-12-19T14:44:50Z",
+                "open_issues": 0,
                 "owner": "quantium-ai",
                 "repo": "research",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "analysis",
+                  "gpt",
+                  "hmm",
+                  "ideas",
+                  "jupyter-notebook",
+                  "lstm",
+                  "python",
+                  "quant",
+                  "quantitative-research",
+                  "research",
+                  "trading",
+                  "transformers",
+                  "uncommon"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1103,12 +2018,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for machine-learning bots",
+                "homepage": null,
                 "id": 63992612,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2016-08-29T07:44:32Z",
+                "open_issues": 2,
                 "owner": "carlos8f",
                 "repo": "zenbrain",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1119,12 +2039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💸 Papers and Code Implements for Quantitative-Trading",
+                "homepage": null,
                 "id": 132315968,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2018-05-09T06:08:34Z",
+                "open_issues": 0,
                 "owner": "Ceruleanacg",
                 "repo": "Quantitative-Trading",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1135,12 +2060,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stock price prediction using a deterministic algorithm inspired by LSTM, focusing on pattern recognition in historical data.",
+                "homepage": null,
                 "id": 834073275,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-26T17:42:41Z",
+                "open_issues": 0,
                 "owner": "quantium-ai",
                 "repo": "patternity",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "algorithm",
+                  "algotrading",
+                  "chart",
+                  "crypto",
+                  "data",
+                  "detection",
+                  "deterministic",
+                  "finance",
+                  "forecasting",
+                  "forex",
+                  "lstm",
+                  "pattern",
+                  "prediction",
+                  "price",
+                  "stock",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -1158,12 +2105,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for portfolio optimization built on top of scikit-learn",
+                "homepage": "https://skfolio.org",
                 "id": 731792488,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T13:29:57Z",
+                "open_issues": 27,
                 "owner": "skfolio",
                 "repo": "skfolio",
-                "stars": 2294
+                "stars": 2302,
+                "topics": [
+                  "asset-allocation",
+                  "asset-management",
+                  "convex-optimization",
+                  "cvar-optimization",
+                  "cvxpy",
+                  "efficient-frontier",
+                  "hierarchical-clustering",
+                  "machine-learning",
+                  "portfolio",
+                  "portfolio-optimization",
+                  "quantitative-finance",
+                  "quantitative-investment",
+                  "risk-parity",
+                  "scikit-learn",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1174,12 +2142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PGPortfolio: Policy Gradient Portfolio, the source code of \"A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem\"(https://arxiv.org/pdf/1706.10059.pdf).",
+                "homepage": null,
                 "id": 110447112,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-10-09T19:16:40Z",
+                "open_issues": 56,
                 "owner": "ZhengyaoJiang",
                 "repo": "PGPortfolio",
-                "stars": 1849
+                "stars": 1849,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1190,12 +2163,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Portfolio optimization with deep learning.",
+                "homepage": "https://deepdow.readthedocs.io",
                 "id": 237742797,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-24T15:56:49Z",
+                "open_issues": 27,
                 "owner": "jankrepl",
                 "repo": "deepdow",
-                "stars": 1181
+                "stars": 1181,
+                "topics": [
+                  "allocation",
+                  "convex-optimization",
+                  "deep-learning",
+                  "finance",
+                  "machine-learning",
+                  "markowitz",
+                  "portfolio-optimization",
+                  "pytorch",
+                  "stock-price-prediction",
+                  "timeseries",
+                  "trading",
+                  "wealth-management"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1206,12 +2197,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A light-weight deep reinforcement learning framework for portfolio management. This project explores the possibility of applying deep reinforcement learning algorithms to stock trading in a highly modular and scalable framework.",
+                "homepage": null,
                 "id": 187533896,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2024-11-06T17:33:17Z",
+                "open_issues": 1,
                 "owner": "Albert-Z-Guo",
                 "repo": "Deep-Reinforcement-Stock-Trading",
-                "stars": 693
+                "stars": 693,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1222,12 +2218,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reinforcement Learning for Portfolio Management",
+                "homepage": null,
                 "id": 106085139,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2018-06-26T09:22:29Z",
+                "open_issues": 1,
                 "owner": "filangelos",
                 "repo": "qtrader",
-                "stars": 480
+                "stars": 480,
+                "topics": [
+                  "algorithmic-trading",
+                  "python",
+                  "q-learning",
+                  "recurrent-neural-networks",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1238,12 +2245,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch research stack for ML multi-factor trading: 213 factors, bias correction, portfolio optimization, and vectorized backtesting.",
+                "homepage": "https://initial-d.github.io/ml-quant-trading/",
                 "id": 996777566,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T02:10:03Z",
+                "open_issues": 4,
                 "owner": "initial-d",
                 "repo": "ml-quant-trading",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "a-shares",
+                  "algorithmic-trading",
+                  "alpha-factors",
+                  "backtesting",
+                  "china-stock-market",
+                  "cross-sectional",
+                  "data-augmentation",
+                  "deep-learning",
+                  "deepseek-harness",
+                  "factor-investing",
+                  "gpu-computing",
+                  "machine-learning",
+                  "multi-factor-model",
+                  "portfolio-optimization",
+                  "pytorch",
+                  "quantitative-finance",
+                  "quantitative-trading",
+                  "reproducibility",
+                  "research-software",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -1261,12 +2294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python",
+                "homepage": null,
                 "id": 19918845,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-29T13:24:00Z",
+                "open_issues": 12,
                 "owner": "jamesmawm",
                 "repo": "High-Frequency-Trading-Model-with-IB",
-                "stars": 2920
+                "stars": 2920,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1277,12 +2315,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Providing the solutions for high-frequency trading (HFT) strategies using data science approaches (Machine Learning) on Full Orderbook Tick Data.",
+                "homepage": null,
                 "id": 63839029,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-08-27T20:48:46Z",
+                "open_issues": 5,
                 "owner": "rorysroes",
                 "repo": "SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
-                "stars": 2330
+                "stars": 2330,
+                "topics": [
+                  "algorithmic-trading",
+                  "backtesting-trading-strategies",
+                  "feature-engineering",
+                  "feature-selection",
+                  "high-frequency-trading",
+                  "investment",
+                  "limit-order-book",
+                  "machine-learning",
+                  "market-maker",
+                  "market-making",
+                  "market-microstructure",
+                  "model-selection",
+                  "orderbook",
+                  "orderbook-tick-data",
+                  "python",
+                  "quant",
+                  "quantitative-trading",
+                  "trading",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1293,12 +2356,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Analysis of High Frequency Trading on Bitcoin exchanges",
+                "homepage": null,
                 "id": 98505326,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-08-21T14:50:37Z",
+                "open_issues": 0,
                 "owner": "ghgr",
                 "repo": "HFT_Bitcoin",
-                "stars": 174
+                "stars": 174,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -1316,12 +2384,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A stock trading bot powered by Trump tweets",
+                "homepage": "https://trump2cash.biz",
                 "id": 79692191,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-23T00:51:23Z",
+                "open_issues": 36,
                 "owner": "maxbbraun",
                 "repo": "trump2cash",
-                "stars": 6535
+                "stars": 6537,
+                "topics": [
+                  "bot",
+                  "trading",
+                  "trump",
+                  "twitter"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1332,12 +2410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "       In this noteboook I will create a complete process for predicting stock price movements. Follow along and we will achieve some pretty good results. For that purpose we will use a Generative Adversarial Network (GAN) with LSTM, a type of Recurrent Neural Network, as generator, and a Convolutional Neural Network, CNN, as a discriminator. We use LSTM for the obvious reason that we are trying to predict time series data. Why we use GAN and specifically CNN as a discriminator? That is a good question: there are special sections on that later.",
+                "homepage": null,
                 "id": 164816947,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-08-19T04:04:58Z",
+                "open_issues": 364,
                 "owner": "borisbanushev",
                 "repo": "stockpredictionai",
-                "stars": 5592
+                "stars": 5594,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -1355,12 +2438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorForce Bitcoin Trading Bot",
+                "homepage": "http://ocdevel.com/podcasts/machine-learning/26",
                 "id": 101094169,
                 "language": "Jupyter Notebook",
+                "license": "AGPL-3.0",
                 "last_commit": "2019-02-13T00:16:41Z",
+                "open_issues": 21,
                 "owner": "lefnire",
                 "repo": "tforce_btc_trader",
-                "stars": 832
+                "stars": 832,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1371,12 +2459,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Predicting price trends in cryptomarkets using an lstm-RNN for the use of a trading bot",
+                "homepage": null,
                 "id": 128647510,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-08-10T10:11:35Z",
+                "open_issues": 1,
                 "owner": "SC4RECOIN",
                 "repo": "LSTM-Crypto-Price-Prediction",
-                "stars": 366
+                "stars": 366,
+                "topics": [
+                  "algorithmic-trading",
+                  "algotrading",
+                  "bitcoin",
+                  "bot",
+                  "btc",
+                  "interpolation",
+                  "lstm",
+                  "macd",
+                  "market-analysis",
+                  "rnn",
+                  "scikit",
+                  "technical-analysis",
+                  "trading-bot",
+                  "trends"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1387,12 +2495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Genetic Algorithm for solving optimization of trading strategies using Gekko",
+                "homepage": null,
                 "id": 109918912,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-02-02T13:18:38Z",
+                "open_issues": 27,
                 "owner": "gekkowarez",
                 "repo": "gekkoga",
-                "stars": 313
+                "stars": 313,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1403,12 +2516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the code for \"Bitcoin Prediction\" by Siraj Raval on Youtube ",
+                "homepage": null,
                 "id": 119817511,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-02-01T10:31:53Z",
+                "open_issues": 9,
                 "owner": "llSourcell",
                 "repo": "bitcoin_prediction",
-                "stars": 233
+                "stars": 233,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1419,12 +2537,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Building a population of models that trade crypto and mutate iteratively",
+                "homepage": null,
                 "id": 136774593,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2021-03-09T21:16:03Z",
+                "open_issues": 4,
                 "owner": "SC4RECOIN",
                 "repo": "NeuroEvolution-BTC-Trader",
-                "stars": 164
+                "stars": 164,
+                "topics": [
+                  "algorithmic-trading",
+                  "algotrading",
+                  "bitcoin",
+                  "bot",
+                  "genetic",
+                  "genetic-algorithm",
+                  "neuroevolution",
+                  "reinforcement-learning",
+                  "trading",
+                  "trading-bot"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1435,12 +2569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neural network strategy for Gekko",
+                "homepage": null,
                 "id": 126765078,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-16T18:42:02Z",
+                "open_issues": 0,
                 "owner": "zschro",
                 "repo": "gekko-neuralnet",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1451,12 +2590,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My algorithmic trading strategies with the Gekko cryptocurrency trading bot.",
+                "homepage": null,
                 "id": 138370217,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-08-25T12:38:23Z",
+                "open_issues": 1,
                 "owner": "markchen8717",
                 "repo": "Gekko_Bot_Trading_Strategies",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "gekko-strategies",
+                  "machine-learning-algorithms",
+                  "neural-networks",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1467,12 +2616,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI crypto trading bot with deep neural network (84.9% accuracy, 25 coins). BiLSTM + Attention trained on GPU. Bybit, Binance, OKX, Gate.io. Free cloud or self-hosted.",
+                "homepage": "https://deepalphabot.com",
                 "id": 1204619991,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-12T16:21:49Z",
+                "open_issues": 17,
                 "owner": "stefanoviana",
                 "repo": "deepalpha",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "ai-trading",
+                  "algorithmic-trading",
+                  "binance",
+                  "bybit",
+                  "ccxt",
+                  "crypto",
+                  "crypto-trading-bot",
+                  "cryptocurrency",
+                  "deep-learning",
+                  "gateio",
+                  "kucoin",
+                  "lightgbm",
+                  "lstm",
+                  "machine-learning",
+                  "neural-network",
+                  "okx",
+                  "open-source",
+                  "pump-scanner",
+                  "python",
+                  "trading-bot"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -1490,12 +2665,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome, MACD",
+                "homepage": "https://je-suis-tm.github.io/quant-trading",
                 "id": 127918080,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-20T12:16:37Z",
+                "open_issues": 4,
                 "owner": "je-suis-tm",
                 "repo": "quant-trading",
-                "stars": 10633
+                "stars": 10637,
+                "topics": [
+                  "algorithmic-trading",
+                  "bollinger-bands",
+                  "commodity-trading",
+                  "macd",
+                  "momentum-strategy",
+                  "momentum-trading-strategy",
+                  "options-strategies",
+                  "options-trading",
+                  "pair-trading",
+                  "quant",
+                  "quantimental-analysis",
+                  "quantitative-finance",
+                  "quantitative-trading",
+                  "quantitative-trading-strategies",
+                  "statistical-arbitrage",
+                  "trading-algorithms",
+                  "trading-bot",
+                  "trading-strategies",
+                  "trading-strategy",
+                  "trading-systems"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1506,12 +2707,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks",
+                "homepage": "https://www.linkedin.com/in/AbenezerMamo",
                 "id": 103791045,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-07T15:33:11Z",
+                "open_issues": 56,
                 "owner": "CryptoSignal",
                 "repo": "Crypto-Signal",
-                "stars": 5620
+                "stars": 5621,
+                "topics": [
+                  "abenezer-mamo",
+                  "algorithmic-trading",
+                  "binance",
+                  "binance-api",
+                  "bitcoin",
+                  "bittrex-api",
+                  "coinbase",
+                  "coinbase-api",
+                  "coinbase-pro",
+                  "crypto",
+                  "crypto-signal",
+                  "cryptosignal",
+                  "cryptotrading",
+                  "ethereum",
+                  "gdax",
+                  "mamo",
+                  "technical-analysis",
+                  "trading",
+                  "trading-bot",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1522,12 +2749,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Strategies to Gekko trading bot with backtests results and some useful tools.",
+                "homepage": null,
                 "id": 121167506,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-01-09T12:04:14Z",
+                "open_issues": 19,
                 "owner": "xFFFFF",
                 "repo": "Gekko-Strategies",
-                "stars": 1441
+                "stars": 1442,
+                "topics": [
+                  "backtest-database",
+                  "crypto",
+                  "cryptocurrencies",
+                  "cryptocurrency",
+                  "cryptocurrency-exchanges",
+                  "gekko",
+                  "gekko-backtest",
+                  "gekko-strategies",
+                  "hodl",
+                  "rsi",
+                  "stock",
+                  "stock-price-prediction",
+                  "strategies",
+                  "technical-analysis",
+                  "trading",
+                  "trading-algorithms",
+                  "trading-bot",
+                  "trading-platform",
+                  "trading-simulator",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1538,12 +2791,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Gekko bot resources.",
+                "homepage": null,
                 "id": 117933350,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-02-07T22:36:14Z",
+                "open_issues": 0,
                 "owner": "cloggy45",
                 "repo": "Gekko-Bot-Resources",
-                "stars": 195
+                "stars": 195,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1554,12 +2812,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Node.js native library performing technical analysis over an OHLC dataset with use of genetic algorithm",
+                "homepage": null,
                 "id": 52747458,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-09-10T14:18:49Z",
+                "open_issues": 13,
                 "owner": "mkmarek",
                 "repo": "forex.analytics",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1570,12 +2833,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 121162169,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2020-02-04T23:50:52Z",
+                "open_issues": 0,
                 "owner": "tommiehansen",
                 "repo": "gekko_tools",
-                "stars": 144
+                "stars": 144,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1586,12 +2854,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dumping ground for my files I use with this awesome crypto currency trading platform https://github.com/askmike/gekko",
+                "homepage": null,
                 "id": 92984473,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2018-04-02T19:36:51Z",
+                "open_issues": 3,
                 "owner": "thegamecat",
                 "repo": "gekko-trading-stuff",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1602,12 +2875,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-powered SDK featuring algorithmic trading, backtesting, deployment on 100+ exchanges, and multiple optimization engines.",
+                "homepage": "https://qtradex.litepresence.com",
                 "id": 956171842,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-30T17:43:33Z",
+                "open_issues": 5,
                 "owner": "squidKid-deluxe",
                 "repo": "QTradeX-Algo-Trading-SDK",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "ai",
+                  "algorithmic-trading",
+                  "backtesting",
+                  "backtesting-engine",
+                  "ccxt",
+                  "crypto",
+                  "crypto-trading-bot",
+                  "data-science",
+                  "machine-learning",
+                  "python",
+                  "quant",
+                  "quantitative-trading",
+                  "sdk",
+                  "strategy-optimization",
+                  "ta-lib",
+                  "technical-analysis",
+                  "trading-bot",
+                  "trading-platform",
+                  "trading-strategy"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1618,12 +2916,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gann's Swing trade strategy for Gekko trade bot",
+                "homepage": null,
                 "id": 76900233,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-11-13T09:15:07Z",
+                "open_issues": 2,
                 "owner": "johndoe75",
                 "repo": "gekko-gannswing",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1634,12 +2937,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "calculate down peak and trade on ",
+                "homepage": null,
                 "id": 126681893,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-03-28T17:51:12Z",
+                "open_issues": 1,
                 "owner": "Moun1r1",
                 "repo": "gekko-strat-hl",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1650,12 +2958,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitcoin - MACD Crossover Trading Strategy Backtest",
+                "homepage": null,
                 "id": 103052551,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2017-09-10T18:36:58Z",
+                "open_issues": 0,
                 "owner": "VermeirJellen",
                 "repo": "Bitcoin_MACD_Strategy",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1666,12 +2979,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, modern ETH backtesting project using Pandas/Numpy: data prep, MA signals, portfolio simulation, and result visualization.",
+                "homepage": null,
                 "id": 138362345,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-02T01:53:30Z",
+                "open_issues": 0,
                 "owner": "Philipid3s",
                 "repo": "eth-trading-algorithm",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "algorithmic-trading",
+                  "cryptocurrency",
+                  "ethereum",
+                  "moving-average",
+                  "python",
+                  "trading-strategy"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1682,12 +3007,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gekko strategies",
+                "homepage": null,
                 "id": 123718112,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-03-03T18:26:36Z",
+                "open_issues": 0,
                 "owner": "zzmike76",
                 "repo": "gekko",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1698,12 +3028,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Streaming-first technical indicators with a Rust core: native Python, Node.js and WebAssembly bindings plus a C ABI hub for C, C++, C#, Go, Java and R. 514 indicators, O(1) per-tick updates, no system dependencies. Drop-in TA-Lib replacement.",
+                "homepage": "https://docs.wickra.org",
                 "id": 1245836208,
                 "language": "Rust",
-                "last_commit": "2026-08-28T00:49:28Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T19:46:29Z",
+                "open_issues": 0,
                 "owner": "wickra-lib",
                 "repo": "wickra",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "algotrading",
+                  "backtesting",
+                  "bollinger-bands",
+                  "cryptocurrency",
+                  "finance",
+                  "indicators",
+                  "macd",
+                  "napi-rs",
+                  "nodejs",
+                  "pyo3",
+                  "python",
+                  "quant",
+                  "rsi",
+                  "rstats",
+                  "rust",
+                  "streaming",
+                  "ta-lib",
+                  "technical-analysis",
+                  "trading",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -1721,12 +3077,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow实战，使用LSTM预测彩票",
+                "homepage": null,
                 "id": 113541705,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2019-06-10T22:26:28Z",
+                "open_issues": 5,
                 "owner": "chengstone",
                 "repo": "LotteryPredict",
-                "stars": 413
+                "stars": 413,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -1744,12 +3105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitcoin arbitrage - opportunity detector",
+                "homepage": null,
                 "id": 7935764,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-20T16:16:12Z",
+                "open_issues": 15,
                 "owner": "maxme",
                 "repo": "bitcoin-arbitrage",
-                "stars": 2584
+                "stars": 2584,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1760,12 +3126,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cryptocurrency arbitrage opportunity calculator. Over 800 currencies and 50 markets.",
+                "homepage": null,
                 "id": 96413513,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2022-05-15T19:06:22Z",
+                "open_issues": 17,
                 "owner": "manu354",
                 "repo": "cryptocurrency-arbitrage",
-                "stars": 1281
+                "stars": 1281,
+                "topics": [
+                  "altcoins",
+                  "arbitrage-opportunity",
+                  "bitcoin",
+                  "cryptocurrency",
+                  "cryptocurrency-arbitrage",
+                  "ethereum",
+                  "litecoin",
+                  "trading-bot"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1776,12 +3156,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R2 Bitcoin Arbitrager is an automatic arbitrage trading system powered by Node.js + TypeScript.",
+                "homepage": null,
                 "id": 108630786,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-04-19T07:14:11Z",
+                "open_issues": 33,
                 "owner": "bitrinjani",
                 "repo": "r2",
-                "stars": 817
+                "stars": 817,
+                "topics": [
+                  "arbitrage",
+                  "bitcoin",
+                  "nodejs",
+                  "trading-bot",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1792,12 +3183,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arbitrage bot that currently works on bittrex & poloniex",
+                "homepage": null,
                 "id": 99870025,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-09-10T22:44:26Z",
+                "open_issues": 0,
                 "owner": "BatuhanUsluel",
                 "repo": "ArbitrageBot",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "arbitrage",
+                  "bittrex",
+                  "bot",
+                  "cryptocurrency",
+                  "poloniex",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -1821,12 +3224,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TuShare is a utility for crawling historical data of China stocks",
+                "homepage": null,
                 "id": 28904322,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-03-13T14:31:20Z",
+                "open_issues": 755,
                 "owner": "waditu",
                 "repo": "tushare",
-                "stars": 15368
+                "stars": 15369,
+                "topics": [
+                  "finance",
+                  "fintech",
+                  "pandas",
+                  "python",
+                  "realtime-quotes-data",
+                  "stock-data",
+                  "stock-market",
+                  "tushare"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1837,12 +3254,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python module to get stock data from Yahoo! Finance",
+                "homepage": null,
                 "id": 19388764,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-25T18:19:29Z",
+                "open_issues": 88,
                 "owner": "yahoo-finance",
                 "repo": "yahoo-finance",
-                "stars": 1445
+                "stars": 1445,
+                "topics": [
+                  "finance",
+                  "python",
+                  "yahoo-finance-api"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1853,12 +3279,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Financial Market Intelligence MCP Server — stock quotes, technical analysis, crypto data, and portfolio insights for AI agents",
+                "homepage": null,
                 "id": 1208957928,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-17T14:12:05Z",
+                "open_issues": 0,
                 "owner": "vdalhambra",
                 "repo": "financekit-mcp",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "ai-tools",
+                  "anthropic",
+                  "claude",
+                  "fastmcp",
+                  "finance",
+                  "mcp",
+                  "model-context-protocol",
+                  "python",
+                  "stock-market",
+                  "technical-analysis"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -1876,12 +3318,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gekko Trading Bot dataset dumps. Ready to use and download history files in SQLite format.",
+                "homepage": null,
                 "id": 128127084,
                 "language": "Perl",
+                "license": "MIT",
                 "last_commit": "2018-05-31T18:43:54Z",
+                "open_issues": 11,
                 "owner": "xFFFFF",
                 "repo": "Gekko-Datasets",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "backtest",
+                  "backtester",
+                  "backtesting",
+                  "backtesting-trading-strategies",
+                  "candlestick",
+                  "candlesticks",
+                  "crypto",
+                  "cryptocoins",
+                  "cryptocurrencies",
+                  "cryptocurrency",
+                  "cryptocurrency-exchanges",
+                  "datasets",
+                  "gekko",
+                  "gekko-datasets",
+                  "historical-cryptocurrency-prices",
+                  "historical-data",
+                  "historical-prices",
+                  "ohlcv",
+                  "trading-bot",
+                  "trading-datasets"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1892,12 +3360,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":chart_with_upwards_trend: A live cryptocurrency historical trade data blotter. Download live historical trade data from any cryptoexchange, be it for machine learning, backtesting/visualizing trading strategies or for Quantopian/Zipline.",
+                "homepage": null,
                 "id": 110450694,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-03-17T18:07:50Z",
+                "open_issues": 0,
                 "owner": "Optixal",
                 "repo": "CryptoInscriber",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "backtest",
+                  "bot",
+                  "cryptocurrency",
+                  "data",
+                  "downloader",
+                  "exchange",
+                  "feeds",
+                  "historical",
+                  "historical-data",
+                  "learning",
+                  "live",
+                  "machine",
+                  "poll",
+                  "strategy",
+                  "trade",
+                  "transactions"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1908,12 +3398,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bitcoin fee intelligence API — 108 endpoints, 751 non-e2e tests, self-hostable, Apache 2.0. Hosted demo paused for infrastructure review.",
+                "homepage": "https://bitcoinsapi.com",
                 "id": 1173752310,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-08T17:32:22Z",
+                "open_issues": 12,
                 "owner": "Bortlesboat",
                 "repo": "bitcoin-api",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "bitcoin",
+                  "bitcoin-api",
+                  "bitcoin-core",
+                  "bitcoin-node",
+                  "cryptocurrency",
+                  "docker",
+                  "fastapi",
+                  "fee-estimation",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "mempool",
+                  "model-context-protocol",
+                  "python",
+                  "rest-api",
+                  "rpc",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1924,12 +3439,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Python SDK for the CoinPulse crypto portfolio API. No OAuth, no complex setup.",
+                "homepage": "https://coinpulse.fly.dev",
                 "id": 1131024171,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-09T14:45:39Z",
+                "open_issues": 0,
                 "owner": "soutone",
                 "repo": "coinpulse-python",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "api",
+                  "bitcoin",
+                  "coingecko",
+                  "crypto",
+                  "cryptocurrency",
+                  "portfolio",
+                  "python",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -1940,12 +3469,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package to set up autonomous agents to trade on TBD",
+                "homepage": "https://www.tbd.vote/agents/AGENTS.md",
                 "id": 1199869119,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-13T13:29:33Z",
+                "open_issues": 0,
                 "owner": "ego-protocol",
                 "repo": "tbd-vote-cli",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "agents",
+                  "agents-md",
+                  "ai-agents",
+                  "autonomous-agents",
+                  "claude",
+                  "claude-skills",
+                  "cli",
+                  "crypto",
+                  "defi",
+                  "opinion-markets",
+                  "prediction-market",
+                  "prediction-markets",
+                  "solana"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -1963,12 +3511,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+                "homepage": "https://worldmonitor.app",
                 "id": 1130564872,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T05:27:26Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T19:40:48Z",
+                "open_issues": 334,
                 "owner": "koala73",
                 "repo": "worldmonitor",
-                "stars": 84598
+                "stars": 84703,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "dashboard",
+                  "geopolitics",
+                  "mcp",
+                  "mcp-server",
+                  "monitoring",
+                  "news",
+                  "opensource",
+                  "osint",
+                  "palantir",
+                  "situation"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -1990,12 +3556,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.",
+            "homepage": "https://discord.gg/ZZ7BGWh",
             "id": 199730019,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-19T16:21:00Z",
+            "open_issues": 48,
             "owner": "tensortrade-org",
             "repo": "tensortrade",
-            "stars": 7071
+            "stars": 7075,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2006,12 +3577,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Portfolio and risk analytics in Python",
+            "homepage": "https://quantopian.github.io/pyfolio",
             "id": 36670205,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-23T06:14:58Z",
+            "open_issues": 166,
             "owner": "quantopian",
             "repo": "pyfolio",
-            "stars": 6408
+            "stars": 6410,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2022,12 +3598,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Performance analysis of predictive (alpha) stock factors",
+            "homepage": "http://quantopian.github.io/alphalens",
             "id": 60379729,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-12T06:44:22Z",
+            "open_issues": 50,
             "owner": "quantopian",
             "repo": "alphalens",
-            "stars": 4434
+            "stars": 4434,
+            "topics": [
+              "algorithmic-trading",
+              "finance",
+              "jupyter",
+              "numpy",
+              "pandas",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2038,12 +3626,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "modular quant framework.",
+            "homepage": "https://zvt.readthedocs.io/en/latest/",
             "id": 179451497,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-01T09:42:05Z",
+            "open_issues": 22,
             "owner": "zvtvz",
             "repo": "zvt",
-            "stars": 4287
+            "stars": 4288,
+            "topics": [
+              "algorithmic-trading",
+              "backtesting",
+              "cryptocurrency",
+              "fintech",
+              "fundamental-analysis",
+              "machine-learning",
+              "ml",
+              "python",
+              "quant",
+              "quantitative-finance",
+              "quantitative-trading",
+              "stock",
+              "stock-market",
+              "technical-analysis",
+              "trading-bot",
+              "trading-platform",
+              "trading-strategies",
+              "zvt"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2054,12 +3666,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-world workflows. Includes Problem Map, Global Debug Card, WFGY 4.0, and the CFV Easter Egg.",
+            "homepage": "https://github.com/onestardao/WFGY",
             "id": 996124831,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-27T17:26:58Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T18:20:15Z",
+            "open_issues": 13,
             "owner": "onestardao",
             "repo": "WFGY",
-            "stars": 1785
+            "stars": 1785,
+            "topics": [
+              "ai-agents",
+              "alignment",
+              "debugging",
+              "evaluation",
+              "graphrag",
+              "hallucination",
+              "information-retrieval",
+              "knowledge-graph",
+              "llm",
+              "rag",
+              "reasoning",
+              "retrieval-augmented-generation"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2070,12 +3700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Common financial risk and performance metrics. Used by zipline and pyfolio.",
+            "homepage": "https://quantopian.github.io/empyrical",
             "id": 54192943,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-26T06:19:42Z",
+            "open_issues": 37,
             "owner": "quantopian",
             "repo": "empyrical",
-            "stars": 1509
+            "stars": 1509,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2086,12 +3721,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://www.quantos.org/jaqs/",
             "id": 107075856,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-04-25T08:13:38Z",
+            "open_issues": 45,
             "owner": "quantOS-org",
             "repo": "JAQS",
-            "stars": 632
+            "stars": 632,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2102,12 +3742,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contingency Random Number Generator — numbers with controllable fat tails, volatility clustering, and scale convergence",
+            "homepage": null,
             "id": 1189430441,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-12T06:54:26Z",
+            "open_issues": 0,
             "owner": "brotto",
             "repo": "crng",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "fat-tails",
+              "finance",
+              "kurtosis",
+              "market-simulation",
+              "monte-carlo",
+              "open-source",
+              "python",
+              "quantitative-finance",
+              "random-number-generator",
+              "risk-management",
+              "stochastic-processes",
+              "volatility"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2118,12 +3776,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-powered Bitcoin network intelligence in your terminal. Ask questions, get structured analysis.",
+            "homepage": "https://pypi.org/project/chainpulse/",
             "id": 1182628644,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-21T22:59:34Z",
+            "open_issues": 0,
             "owner": "Bortlesboat",
             "repo": "chainpulse",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ai",
+              "bitcoin",
+              "blockchain",
+              "cli",
+              "cryptocurrency",
+              "intelligence",
+              "mempool",
+              "network-analysis",
+              "python",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         }
@@ -2142,12 +3816,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Data Platform for analysts, quants and AI agents.",
+                "homepage": "https://openbb.co",
                 "id": 323048702,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-30T17:33:42Z",
+                "open_issues": 107,
                 "owner": "OpenBB-finance",
                 "repo": "OpenBB",
-                "stars": 72391
+                "stars": 72414,
+                "topics": [
+                  "ai",
+                  "crypto",
+                  "derivatives",
+                  "economics",
+                  "equity",
+                  "finance",
+                  "fixed-income",
+                  "machine-learning",
+                  "openbb",
+                  "options",
+                  "python",
+                  "quantitative-finance",
+                  "stocks"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2158,12 +3851,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Backtesting library for trading strategies",
+                "homepage": "https://www.backtrader.com",
                 "id": 29050338,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-19T17:47:36Z",
+                "open_issues": 63,
                 "owner": "mementum",
                 "repo": "backtrader",
-                "stars": 23001
+                "stars": 23012,
+                "topics": [
+                  "backtesting",
+                  "metaclass",
+                  "python",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2174,12 +3877,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+                "homepage": "https://lean.io",
                 "id": 27251463,
                 "language": "C#",
-                "last_commit": "2026-08-27T21:26:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:31:13Z",
+                "open_issues": 258,
                 "owner": "QuantConnect",
                 "repo": "Lean",
-                "stars": 21380
+                "stars": 21390,
+                "topics": [
+                  "algorithm",
+                  "algorithmic-trading-engine",
+                  "c-sharp",
+                  "finance",
+                  "forex",
+                  "lean-engine",
+                  "options",
+                  "python",
+                  "quantconnect",
+                  "stock-indicators",
+                  "trading",
+                  "trading-algorithms",
+                  "trading-bot",
+                  "trading-platform",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2190,12 +3914,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zipline, a Pythonic Algorithmic Trading Library",
+                "homepage": "https://www.zipline.io",
                 "id": 6297520,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-13T08:02:51Z",
+                "open_issues": 370,
                 "owner": "quantopian",
                 "repo": "zipline",
-                "stars": 20071
+                "stars": 20072,
+                "topics": [
+                  "algorithmic-trading",
+                  "python",
+                  "quant",
+                  "zipline"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2206,12 +3940,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities",
+                "homepage": "http://rqalpha.io",
                 "id": 63773246,
                 "language": "Python",
-                "last_commit": "2026-08-28T06:04:21Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T09:47:55Z",
+                "open_issues": 31,
                 "owner": "ricequant",
                 "repo": "rqalpha",
-                "stars": 6729
+                "stars": 6731,
+                "topics": [
+                  "backtest",
+                  "finance",
+                  "futures",
+                  "python",
+                  "quant",
+                  "ricequant",
+                  "rqalpha",
+                  "stock",
+                  "ta-lib",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2222,12 +3972,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your agents don’t hand off the work. Kungfu keeps the same Work moving across Codex, Claude, OpenCode, and your own execution surface.",
+                "homepage": "https://kungfu.tech",
                 "id": 110795721,
                 "language": "C++",
-                "last_commit": "2026-08-28T06:08:51Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:34:04Z",
+                "open_issues": 71,
                 "owner": "kungfu-systems",
                 "repo": "kungfu",
-                "stars": 4504
+                "stars": 4505,
+                "topics": [
+                  "agent",
+                  "agent-framework",
+                  "agent-memory",
+                  "agent-orchestration"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2238,12 +3998,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Algorithmic Trading Engine",
+                "homepage": "https://the0.app",
                 "id": 1032044162,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T20:51:56Z",
+                "open_issues": 11,
                 "owner": "alexanderwanyoike",
                 "repo": "the0",
-                "stars": 390
+                "stars": 391,
+                "topics": [
+                  "algorithmic-trading",
+                  "bots",
+                  "docker",
+                  "kubernetes",
+                  "quant",
+                  "quantitative-finance",
+                  "self-hosted",
+                  "trading",
+                  "trading-bot",
+                  "trading-platform"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2254,12 +4030,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-Powered Quantitative Trading Engine — Evolve strategies with genetic algorithms",
+                "homepage": null,
                 "id": 1213899530,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-18T00:35:47Z",
+                "open_issues": 1,
                 "owner": "NeuZhou",
                 "repo": "stratevo",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2270,12 +4051,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python live trade execution library with zipline interface.",
+                "homepage": "https://pypi.org/project/pylivetrader/",
                 "id": 143319472,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-04T15:17:22Z",
+                "open_issues": 20,
                 "owner": "alpacahq",
                 "repo": "pylivetrader",
-                "stars": 685
+                "stars": 685,
+                "topics": [
+                  "algorithmic-trading",
+                  "hacktoberfest",
+                  "python",
+                  "python3",
+                  "quant",
+                  "zipline"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2286,12 +4079,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This project tests bt(http://pmorissette.github.io/bt) and Quantopian Zipline(https://github.com/quantopian/zipline) as backtesting frameworks for coin trading strategy.",
+                "homepage": null,
                 "id": 100361977,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-08T00:42:09Z",
+                "open_issues": 6,
                 "owner": "darkato42",
                 "repo": "CoinMarketCapBacktesting",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -2309,12 +4107,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构",
+                "homepage": "http://www.abuquant.com/",
                 "id": 68619379,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-24T09:00:29Z",
+                "open_issues": 6,
                 "owner": "bbfamily",
                 "repo": "abu",
-                "stars": 18248
+                "stars": 18256,
+                "topics": [
+                  "algorithmic-trading",
+                  "bitcoin",
+                  "machine-learning",
+                  "matplotlib",
+                  "numpy",
+                  "pandas",
+                  "quant",
+                  "quantitative-trading",
+                  "stock",
+                  "trade",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2325,12 +4140,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.",
+                "homepage": null,
                 "id": 62025838,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2022-02-14T16:11:27Z",
+                "open_issues": 295,
                 "owner": "DeviaVir",
                 "repo": "zenbot",
-                "stars": 8260
+                "stars": 8260,
+                "topics": [
+                  "nodejs",
+                  "paper-trading",
+                  "python",
+                  "strategy",
+                  "trade",
+                  "zenbot"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2341,12 +4168,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An Algorithmic Trading Library for Crypto-Assets in Python",
+                "homepage": "http://enigma.co",
                 "id": 94264011,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-26T14:07:55Z",
+                "open_issues": 136,
                 "owner": "scrtlabs",
                 "repo": "catalyst",
-                "stars": 2560
+                "stars": 2560,
+                "topics": [
+                  "algorithmic-trading",
+                  "cryptocurrencies",
+                  "cryptocurrency",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2357,12 +4194,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magic8bot is a cryptocurrency trading bot using Node.js and MongoDB.",
+                "homepage": null,
                 "id": 140289364,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T04:08:38Z",
+                "open_issues": 11,
                 "owner": "magic8bot",
                 "repo": "magic8bot",
-                "stars": 410
+                "stars": 410,
+                "topics": [
+                  "bitcoin",
+                  "cryptocurrency",
+                  "nodejs",
+                  "trading-bot",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2373,12 +4221,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bot18 is a high-frequency cryptocurrency trading bot developed by Zenbot creator @carlos8f",
+                "homepage": "https://bot18.net/",
                 "id": 134580938,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-02T04:32:13Z",
+                "open_issues": 12,
                 "owner": "carlos8f",
                 "repo": "bot18",
-                "stars": 203
+                "stars": 203,
+                "topics": [
+                  "algo",
+                  "arbitrage",
+                  "bitcoin",
+                  "btc",
+                  "cryptocurrency",
+                  "cryptography",
+                  "eth",
+                  "ether",
+                  "ethereum",
+                  "finance",
+                  "forex",
+                  "hacking",
+                  "hft",
+                  "litecoin",
+                  "ltc",
+                  "machine-learning",
+                  "market-making",
+                  "nodejs",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2389,12 +4262,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Quantitative crypto bot framework",
+                "homepage": null,
                 "id": 134448273,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-11-13T20:53:56Z",
+                "open_issues": 5,
                 "owner": "Moun1r1",
                 "repo": "QuantResearchDev",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "cryptocurrencies",
+                  "cryptocurrency",
+                  "machine",
+                  "machine-learning",
+                  "quantitative-finance",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2407,12 +4292,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Batch backtest, import and strategy params optimalization for Gekko Trading Bot. With one command you will run any number of backtests.",
+                    "homepage": null,
                     "id": 122880696,
                     "language": "Perl",
+                    "license": "MIT",
                     "last_commit": "2020-03-14T13:03:27Z",
+                    "open_issues": 36,
                     "owner": "xFFFFF",
                     "repo": "Gekko-BacktestTool",
-                    "stars": 233
+                    "stars": 233,
+                    "topics": [
+                      "backtest",
+                      "backtester",
+                      "backtesting",
+                      "backtesting-trading-strategies",
+                      "bitcoin",
+                      "bitcoins",
+                      "crypto",
+                      "cryptocoins",
+                      "cryptocurrencies",
+                      "cryptocurrency",
+                      "gekko",
+                      "gekko-backtesttool",
+                      "trading",
+                      "trading-bot",
+                      "trading-strategies"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:10:01.303Z"
                 },
@@ -2423,12 +4329,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "This project tests bt(http://pmorissette.github.io/bt) and Quantopian Zipline(https://github.com/quantopian/zipline) as backtesting frameworks for coin trading strategy.",
+                    "homepage": null,
                     "id": 100361977,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-12-08T00:42:09Z",
+                    "open_issues": 6,
                     "owner": "darkato42",
                     "repo": "CoinMarketCapBacktesting",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:10:01.303Z"
                 }
@@ -2455,12 +4366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.",
+            "homepage": "http://techanjs.org/",
             "id": 20258239,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-10-02T06:48:35Z",
+            "open_issues": 100,
             "owner": "andredumas",
             "repo": "techan.js",
-            "stars": 2435
+            "stars": 2435,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2471,12 +4387,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Common financial technical indicators implemented in Pandas.",
+            "homepage": null,
             "id": 67166080,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2022-07-24T08:40:51Z",
+            "open_issues": 24,
             "owner": "peerchemist",
             "repo": "finta",
-            "stars": 2264
+            "stars": 2264,
+            "topics": [
+              "algorithmic-trading",
+              "algotrading",
+              "fintech",
+              "pandas",
+              "python",
+              "technical-analysis",
+              "trading",
+              "trading-algorithms",
+              "trading-strategy"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2487,12 +4418,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python Pandas implementation of technical analysis indicators",
+            "homepage": null,
             "id": 39177873,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-05-30T12:05:04Z",
+            "open_issues": 15,
             "owner": "femtotrader",
             "repo": "pandas_talib",
-            "stars": 787
+            "stars": 787,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2503,12 +4439,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tulip Node is the official node.js wrapper for Tulip Indicators. It provides over 100 technical analysis overlay and indicator functions.",
+            "homepage": "https://tulipindicators.org",
             "id": 76993879,
             "language": "JavaScript",
+            "license": "LGPL-3.0",
             "last_commit": "2023-06-28T23:21:49Z",
+            "open_issues": 18,
             "owner": "TulipCharts",
             "repo": "tulipnode",
-            "stars": 514
+            "stars": 514,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         }
@@ -2525,12 +4466,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Python API for the Interactive Brokers on-line trading system.",
+            "homepage": "https://pypi.python.org/pypi/IbPy2",
             "id": 2452739,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2017-01-19T17:51:08Z",
+            "open_issues": 27,
             "owner": "blampe",
             "repo": "IbPy",
-            "stars": 1426
+            "stars": 1426,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2541,12 +4487,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "上海期货交易所CTP接口 Shanghai Future CTP Interface  CTP Python API Wrapper",
+            "homepage": null,
             "id": 113638543,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-08T11:12:14Z",
+            "open_issues": 18,
             "owner": "nooperpudd",
             "repo": "ctpwrapper",
-            "stars": 605
+            "stars": 605,
+            "topics": [
+              "ctp",
+              "futures",
+              "shfe",
+              "trading-api"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2557,12 +4513,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript SDK for trading on cryptocurrency exchanges like FTX, OKX, Bybit, and more. Supports API data feeds and WebSocket. Built by the Compendium Team.",
+            "homepage": null,
             "id": 558996759,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-09T14:17:45Z",
+            "open_issues": 1,
             "owner": "CompendiumFi",
             "repo": "PENDAX-SDK",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "api-wrapper",
+              "bybit",
+              "bybit-api",
+              "bybit-websocket",
+              "crypto",
+              "cryptocurrency",
+              "exchange",
+              "ftx",
+              "ftx-exchange",
+              "ftx-us",
+              "okex",
+              "okex-api",
+              "okx",
+              "trading",
+              "trading-bot"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2573,12 +4550,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【停止维护】新版本更新已迁移到 IBATS 项目组对应名称项目中。连接火币交易所，获取火币实时行情、火币历史行情，保存到mysql数据库同时redis广播，供 ABAT 交易平台进行策略回测、分析，交易使用",
+            "homepage": null,
             "id": 138105035,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-08T02:14:26Z",
+            "open_issues": 3,
             "owner": "mmmaaaggg",
             "repo": "IBATS_HuobiFeeder_old",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "huobi",
+              "huobipro",
+              "python",
+              "python36",
+              "quant"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2591,12 +4579,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance TensorFlow library for quantitative finance.",
+                "homepage": null,
                 "id": 198669252,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T22:18:59Z",
+                "open_issues": 42,
                 "owner": "google",
                 "repo": "tf-quant-finance",
-                "stars": 5483
+                "stars": 5486,
+                "topics": [
+                  "finance",
+                  "gpu",
+                  "gpu-computing",
+                  "high-performance",
+                  "high-performance-computing",
+                  "numerical-integration",
+                  "numerical-methods",
+                  "numerical-optimization",
+                  "python",
+                  "quantitative-finance",
+                  "quantlib",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -2614,12 +4620,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visualizer for neural network, deep learning and machine learning models",
+                "homepage": "https://netron.app",
                 "id": 1198539,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T23:39:52Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T17:15:34Z",
+                "open_issues": 18,
                 "owner": "lutzroeder",
                 "repo": "netron",
-                "stars": 33417
+                "stars": 33421,
+                "topics": [
+                  "ai",
+                  "coreml",
+                  "deep-learning",
+                  "deeplearning",
+                  "keras",
+                  "machine-learning",
+                  "machinelearning",
+                  "ml",
+                  "neural-network",
+                  "numpy",
+                  "onnx",
+                  "pytorch",
+                  "safetensors",
+                  "tensorflow",
+                  "tensorflow-lite",
+                  "visualizer"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2630,12 +4658,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play with neural networks!",
+                "homepage": "http://playground.tensorflow.org",
                 "id": 55434242,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-10T04:53:49Z",
+                "open_issues": 148,
                 "owner": "tensorflow",
                 "repo": "playground",
-                "stars": 13000
+                "stars": 13001,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2646,12 +4679,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📈Lightweight k-line chart that can be highly customized. Zero dependencies. Support mobile.（可高度自定义的轻量级k线图，无第三方依赖，支持移动端）",
+                "homepage": "https://klinecharts.com/",
                 "id": 187455140,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T18:16:19Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T16:10:43Z",
+                "open_issues": 28,
                 "owner": "klinecharts",
                 "repo": "KLineChart",
-                "stars": 4095
+                "stars": 4096,
+                "topics": [
+                  "candlestick",
+                  "canvas",
+                  "chart",
+                  "exchange",
+                  "finance",
+                  "kline",
+                  "klinechart",
+                  "stock",
+                  "stockchart",
+                  "technical-indicators",
+                  "time-line"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -2669,12 +4719,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.",
+                "homepage": null,
                 "id": 89928104,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-11T11:53:21Z",
+                "open_issues": 11,
                 "owner": "Yvictor",
                 "repo": "TradingGym",
-                "stars": 1913
+                "stars": 1913,
+                "topics": [
+                  "backtest",
+                  "backtesting-trading-strategies",
+                  "python",
+                  "reinforcement-learning",
+                  "trading",
+                  "trading-api",
+                  "trading-bot",
+                  "trading-platform",
+                  "trading-simulator",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2685,12 +4751,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalable, event-driven, deep-learning-friendly backtesting library",
+                "homepage": "https://kismuz.github.io/btgym/",
                 "id": 92314074,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2021-08-28T22:13:14Z",
+                "open_issues": 11,
                 "owner": "Kismuz",
                 "repo": "btgym",
-                "stars": 1035
+                "stars": 1035,
+                "topics": [
+                  "a3c",
+                  "advantage-actor-critic",
+                  "algorithmic-trading-library",
+                  "algoritmic-trading",
+                  "backtesting-trading-strategies",
+                  "backtrader",
+                  "deep-reinforcement-learning",
+                  "gym-environment",
+                  "hacktoberfest",
+                  "openai-gym",
+                  "policy-gradient",
+                  "policy-optimisation",
+                  "quantitive-finance",
+                  "reinforcement-learning",
+                  "statistical-arbitrage",
+                  "tensorflow",
+                  "time-series",
+                  "unreal"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2701,12 +4791,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trading environnement for RL agents, backtesting and training.",
+                "homepage": null,
                 "id": 92601869,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-06-21T21:28:48Z",
+                "open_issues": 7,
                 "owner": "kkuette",
                 "repo": "TradzQAI",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "algorithm",
+                  "backtesting",
+                  "bitcoin",
+                  "bitcoin-bot",
+                  "reinforcement-learning",
+                  "reinforcement-learning-agent",
+                  "reinforcement-learning-algorithms",
+                  "trading",
+                  "trading-algorithms",
+                  "trading-bot",
+                  "trading-env"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2717,12 +4824,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "面向 LLM 交易 Agent 的抗污染回测、确定性回放与训练轨迹生成，支持 A 股研究｜Leakage-resistant backtesting, deterministic replay & training trajectory generation for LLM trading agents, with A-share data",
+                "homepage": "https://hephaestlab.github.io/TraderHarness/",
                 "id": 1237833588,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-22T17:06:47Z",
+                "open_issues": 0,
                 "owner": "HephaestLab",
                 "repo": "TraderHarness",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "a-share",
+                  "agentic-ai",
+                  "ai-trading",
+                  "algorithmic-trading",
+                  "autonomous-agents",
+                  "backtest",
+                  "backtesting",
+                  "benchmark",
+                  "china-stocks",
+                  "financial-ai",
+                  "llm",
+                  "llm-agents",
+                  "market-simulation",
+                  "multi-agent",
+                  "python",
+                  "quantitative-trading",
+                  "rlhf",
+                  "sft",
+                  "synthetic-data",
+                  "trading-bot"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -2744,12 +4877,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Economist 经济学人，持续更新",
+            "homepage": null,
             "id": 91099777,
             "language": null,
+            "license": null,
             "last_commit": "2023-06-23T11:37:10Z",
+            "open_issues": 19,
             "owner": "nailperry-zd",
             "repo": "The-Economist",
-            "stars": 3924
+            "stars": 3926,
+            "topics": [
+              "economist",
+              "english",
+              "newspapers"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2760,12 +4902,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: NYU 金融机器学习 中文笔记",
+            "homepage": null,
             "id": 153906775,
             "language": null,
+            "license": null,
             "last_commit": "2018-10-24T13:51:00Z",
+            "open_issues": 0,
             "owner": "wizardforcel",
             "repo": "nyu-mlif-notes",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "finance",
+              "lecture-notes",
+              "machine-learning",
+              "nyu"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         }
@@ -2782,12 +4934,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An UI port for gekko trading bot using Quasar framework.",
+            "homepage": null,
             "id": 124645286,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2021-06-27T12:29:53Z",
+            "open_issues": 5,
             "owner": "H256",
             "repo": "gekko-quasar-ui",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2798,12 +4955,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorBoard as a Zipline dashboard",
+            "homepage": null,
             "id": 58871655,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-26T16:30:44Z",
+            "open_issues": 1,
             "owner": "jimgoo",
             "repo": "zipline-tensorboard",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2814,12 +4976,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌊 Floom, \"The K8s for AI\", orchestrates & executes Generative AI pipelines, Empowering Developers and DevOps to focus on what matters.",
+            "homepage": "https://floom.ai",
             "id": 740874713,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-11-17T14:52:35Z",
+            "open_issues": 0,
             "owner": "FloomAI",
             "repo": "Floom",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "genai",
+              "generative-ai",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2830,12 +5003,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal MCP Server for finding + connecting to agents anywhere on the planet. https://hol.org/mcp",
+            "homepage": "https://hol.org/mcp",
             "id": 1094598330,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-08T14:15:15Z",
+            "open_issues": 2,
             "owner": "hashgraph-online",
             "repo": "hashnet-mcp-js",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "a2a",
+              "agent",
+              "agent-discovery",
+              "agentverse",
+              "ai-agents",
+              "erc-8004",
+              "hashgraph",
+              "hedera",
+              "mcp",
+              "mcp-server",
+              "nanda",
+              "openrouter",
+              "registry-broker",
+              "virtuals"
+            ]
           },
           "first_seen": "2026-08-28T06:10:01.303Z"
         },
@@ -2848,12 +5041,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+                "homepage": "https://wilsonfreitas.github.io/awesome-quant/",
                 "id": 43425480,
                 "language": "HTML",
-                "last_commit": "2026-08-28T03:41:58Z",
+                "license": null,
+                "last_commit": "2026-08-29T01:06:41Z",
+                "open_issues": 67,
                 "owner": "wilsonfreitas",
                 "repo": "awesome-quant",
-                "stars": 29246
+                "stars": 29267,
+                "topics": [
+                  "algorithmic-trading-engine",
+                  "algorithmic-trading-library",
+                  "algotrading",
+                  "arbitrage-bot",
+                  "awesome",
+                  "awesome-list",
+                  "finance",
+                  "finance-api",
+                  "financial-data",
+                  "financial-instruments",
+                  "google-finance",
+                  "quant",
+                  "quantitative-finance",
+                  "quantitative-trading",
+                  "stock-data",
+                  "technical-analysis",
+                  "trading-algorithms",
+                  "trading-bot",
+                  "trading-strategies",
+                  "yahoo-finance"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2864,12 +5083,33 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations",
+                "homepage": null,
                 "id": 114629751,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-16T22:03:47Z",
+                "open_issues": 47,
                 "owner": "huseinzol05",
                 "repo": "Stock-Prediction-Models",
-                "stars": 9482
+                "stars": 9482,
+                "topics": [
+                  "deep-learning",
+                  "deep-learning-stock",
+                  "evolution-strategies",
+                  "learning-agents",
+                  "lstm",
+                  "lstm-sequence",
+                  "monte-carlo",
+                  "monte-carlo-markov-chain",
+                  "seq2seq",
+                  "stock-market",
+                  "stock-prediction-models",
+                  "stock-price-forecasting",
+                  "stock-price-prediction",
+                  "strategy-agent",
+                  "trading-bot"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2880,12 +5120,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of practical financial machine learning tools and applications.",
+                "homepage": "https://www.sov.ai/",
                 "id": 177023075,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-03T01:27:50Z",
+                "open_issues": 15,
                 "owner": "firmai",
                 "repo": "financial-machine-learning",
-                "stars": 8767
+                "stars": 8770,
+                "topics": [
+                  "algorithmic-trading",
+                  "cryptocurrency",
+                  "finance",
+                  "investment",
+                  "quant",
+                  "quantitative-finance",
+                  "stock-market",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2896,12 +5150,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quant/Algorithm trading resources with an emphasis on Machine Learning",
+                "homepage": null,
                 "id": 156283359,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-21T20:41:58Z",
+                "open_issues": 20,
                 "owner": "grananqvist",
                 "repo": "Awesome-Quant-Machine-Learning-Trading",
-                "stars": 4004
+                "stars": 4006,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "deep-learning",
+                  "financial-machine-learning",
+                  "machine-learning",
+                  "machine-learning-trading",
+                  "stock-trading",
+                  "trading-strategies"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             },
@@ -2912,12 +5180,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives. ",
+                "homepage": null,
                 "id": 217872093,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T16:19:41Z",
+                "open_issues": 50,
                 "owner": "domokane",
                 "repo": "FinancePy",
-                "stars": 3114
+                "stars": 3115,
+                "topics": [
+                  "asset-allocation",
+                  "bonds",
+                  "credit",
+                  "currency",
+                  "derivatives",
+                  "derivatives-pricing",
+                  "finance",
+                  "fixed-income",
+                  "investment",
+                  "numba",
+                  "pricing",
+                  "python",
+                  "risk",
+                  "risk-management",
+                  "students",
+                  "valuation"
+                ]
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
             }
@@ -2931,15 +5221,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:10:01.303Z",
+    "last_updated": "2026-08-29T03:44:01.340Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.",
+      "homepage": "https://medium.com/@zousongqi0213/how-people-use-ai-in-finance-59f0a7512b4",
       "id": 146531619,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-04T09:34:24Z",
+      "open_issues": 44,
       "owner": "georgezouq",
       "repo": "awesome-ai-in-finance",
-      "stars": 6449
+      "stars": 6451,
+      "topics": [
+        "analysis",
+        "awesome",
+        "awesome-list",
+        "cryptocurrency",
+        "deep-learning",
+        "financial",
+        "neural-network",
+        "quant",
+        "quantitative-finance",
+        "reinforcement-learning",
+        "stock-market",
+        "technology-analysis"
+      ]
     },
     "original_repository_sha": "27ef1faa8ea062af45ae2cdcbd2f50f4c358f110",
     "enhanced_repository": "enhansome/enhansome-ai-in-finance",
