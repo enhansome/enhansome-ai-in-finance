@@ -35,9 +35,9 @@ With the power of the latest artificial intelligence research, people analyze & 
 
 ## Agents
 
-* [TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ 101,606 | 🐛 390 | 🌐 Python | 📅 2026-07-18 - Multi-Agents LLM Financial Trading Framework.
+* [TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ 101,609 | 🐛 390 | 🌐 Python | 📅 2026-07-18 - Multi-Agents LLM Financial Trading Framework.
 
-* [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) ⭐ 31,984 | 🐛 30 | 🌐 Python | 📅 2026-08-28 - Multi-agent finance research workspace for strategy generation, backtests, portfolio analysis, and research insights.
+* [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) ⭐ 31,986 | 🐛 29 | 🌐 Python | 📅 2026-08-28 - Multi-agent finance research workspace for strategy generation, backtests, portfolio analysis, and research insights.
 
 * 🌟🌟 [nofx](https://github.com/NoFxAiOS/nofx) ⭐ 12,775 | 🐛 518 | 🌐 Go | 📅 2026-08-20 - A multi-exchange Al trading platform with multi-Ai competition self-evolution, and real-time dashboard.
 
@@ -248,7 +248,7 @@ Price and Volume process with Technology Analysis Indices
 
 #### Traditional Markets
 
-* [Tushare](https://github.com/waditu/tushare) ⭐ 15,369 | 🐛 755 | 🌐 Python | 📅 2024-03-13 - TuShare is a utility for crawling historical data of China stocks.
+* [Tushare](https://github.com/waditu/tushare) ⭐ 15,370 | 🐛 755 | 🌐 Python | 📅 2024-03-13 - TuShare is a utility for crawling historical data of China stocks.
 * [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) ⭐ 1,445 | 🐛 88 | 🌐 Python | 📅 2023-12-25 - Python module to get stock data from Yahoo! Finance.
 * [FinanceKit MCP](https://github.com/vdalhambra/financekit-mcp) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-04-17 - MCP server for stock quotes, technical analysis, crypto data, risk metrics, and portfolio analysis. No API keys for core data.
 * 🌟 [Quandl](https://www.quandl.com/tools/api) - Get millions of financial and economic dataset from hundreds of publishers via a single free API.
@@ -279,7 +279,7 @@ Price and Volume process with Technology Analysis Indices
 
 #### News Data
 
-* [WorldMonitor](https://github.com/koala73/worldmonitor) ⭐ 84,703 | 🐛 334 | 🌐 TypeScript | 📅 2026-08-28 - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
+* [WorldMonitor](https://github.com/koala73/worldmonitor) ⭐ 84,708 | 🐛 334 | 🌐 TypeScript | 📅 2026-08-28 - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
 
 #### Alternative Data
 
@@ -338,7 +338,7 @@ For Back Test & Live trading
 
 ### Crypto Currencies
 
-* [abu](https://github.com/bbfamily/abu) ⭐ 18,256 | 🐛 6 | 🌐 Python | 📅 2026-01-24 - A quant trading system base on python.
+* [abu](https://github.com/bbfamily/abu) ⭐ 18,257 | 🐛 6 | 🌐 Python | 📅 2026-01-24 - A quant trading system base on python.
 * [zenbot](https://github.com/DeviaVir/zenbot) ⚠️ Archived - Command-line crypto currency trading bot using Node.js and MongoDB.
 * [catalyst](https://github.com/enigmampc/catalyst) ⚠️ Archived - An algorithmic trading library for Crypto-Assets in python.
 * [magic8bot](https://github.com/magic8bot/magic8bot) ⭐ 410 | 🐛 11 | 🌐 TypeScript | 📅 2023-03-04 - Crypto currency trading bot using Node.js and MongoDB.
@@ -375,7 +375,7 @@ Do it in real world!
 ### Visualizing
 
 * [netron](https://github.com/lutzroeder/netron) ⭐ 33,421 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-28 - Visualizer for deep learning and machine learning models.
-* [playground](https://github.com/tensorflow/playground) ⭐ 13,001 | 🐛 148 | 🌐 TypeScript | 📅 2026-06-10 - Play with neural networks.
+* [playground](https://github.com/tensorflow/playground) ⭐ 13,002 | 🐛 148 | 🌐 TypeScript | 📅 2026-06-10 - Play with neural networks.
 * [KLineChart](https://github.com/liihuu/KLineChart) ⭐ 4,096 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-28 - Highly customizable professional lightweight financial charts
 
 ### GYM Environment
@@ -404,7 +404,7 @@ Do it in real world!
 
 #### Other Resource
 
-* [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) ⭐ 29,267 | 🐛 67 | 🌐 HTML | 📅 2026-08-29 - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
+* [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) ⭐ 29,269 | 🐛 67 | 🌐 HTML | 📅 2026-08-29 - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
 * 🌟🌟🌟 [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) ⚠️ Archived - Stock-Prediction-Models, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
 * 🌟🌟 [Financial Machine Learning](https://github.com/firmai/financial-machine-learning) ⭐ 8,770 | 🐛 15 | 🌐 Python | 📅 2025-01-03 - A curated list of practical financial machine learning (FinML) tools and applications. This collection is primarily in Python.
 * 🌟 [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) ⭐ 4,006 | 🐛 20 | 📅 2025-05-21 - Quant / Algorithm trading resources with an emphasis on Machine Learning.

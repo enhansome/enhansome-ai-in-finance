@@ -19,7 +19,7 @@
             "open_issues": 390,
             "owner": "TauricResearch",
             "repo": "TradingAgents",
-            "stars": 101606,
+            "stars": 101609,
             "topics": [
               "agent",
               "finance",
@@ -43,10 +43,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-28T15:48:29Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "HKUDS",
             "repo": "Vibe-Trading",
-            "stars": 31984,
+            "stars": 31986,
             "topics": [
               "ai-agent",
               "algorithmic-trading",
@@ -3233,7 +3233,7 @@
                 "open_issues": 755,
                 "owner": "waditu",
                 "repo": "tushare",
-                "stars": 15369,
+                "stars": 15370,
                 "topics": [
                   "finance",
                   "fintech",
@@ -3520,7 +3520,7 @@
                 "open_issues": 334,
                 "owner": "koala73",
                 "repo": "worldmonitor",
-                "stars": 84703,
+                "stars": 84708,
                 "topics": [
                   "agent",
                   "ai",
@@ -3977,7 +3977,7 @@
                 "id": 110795721,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T03:34:04Z",
+                "last_commit": "2026-08-29T04:14:21Z",
                 "open_issues": 71,
                 "owner": "kungfu-systems",
                 "repo": "kungfu",
@@ -4116,7 +4116,7 @@
                 "open_issues": 6,
                 "owner": "bbfamily",
                 "repo": "abu",
-                "stars": 18256,
+                "stars": 18257,
                 "topics": [
                   "algorithmic-trading",
                   "bitcoin",
@@ -4667,7 +4667,7 @@
                 "open_issues": 148,
                 "owner": "tensorflow",
                 "repo": "playground",
-                "stars": 13001,
+                "stars": 13002,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:01.303Z"
@@ -5050,7 +5050,7 @@
                 "open_issues": 67,
                 "owner": "wilsonfreitas",
                 "repo": "awesome-quant",
-                "stars": 29267,
+                "stars": 29269,
                 "topics": [
                   "algorithmic-trading-engine",
                   "algorithmic-trading-library",
@@ -5221,7 +5221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:44:01.340Z",
+    "last_updated": "2026-08-29T04:18:20.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.",
